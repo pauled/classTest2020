@@ -1,0 +1,847 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Bowtie 98/100
+\end_layout
+
+\begin_layout Standard
+Bowtie Berry is one of the best games I have seen produced in this course.
+ It has the feeling of being complete with lots of little details all fitting
+ together.
+ There is a consistently good aesthetic with good assets, varying room designs,
+ and fantastic cinematics.
+ There were minor glitches like the camera going through the wall once or
+ twice and a menu that didn't seem as responsive but these are small problems
+ and expected.
+ Really fantastic game, my notes follow.
+\end_layout
+
+\begin_layout Itemize
+cinematics are fantastic
+\end_layout
+
+\begin_layout Itemize
+objects moving when walked into is a little wonky
+\end_layout
+
+\begin_layout Itemize
+the corpses twitching is a bit of an issue
+\end_layout
+
+\begin_layout Itemize
+some camera clipping through walls
+\end_layout
+
+\begin_layout Itemize
+the aesthetic is fantastic
+\end_layout
+
+\begin_layout Itemize
+really great differentiation in the rooms
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+xray room is fantastic
+\end_layout
+
+\begin_layout Itemize
+patient rooms good
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+NPC dialog is great
+\end_layout
+
+\begin_layout Itemize
+menu was a little genky it looked like
+\end_layout
+
+\begin_layout Itemize
+outdoor world could have used work, I swear the lighting needed to be rebuilt
+\end_layout
+
+\begin_layout Itemize
+nice change that you don't have to get every soul
+\end_layout
+
+\begin_layout Itemize
+this feels really polished and the sound is good
+\end_layout
+
+\begin_layout Itemize
+I wish the scoreboard worked
+\end_layout
+
+\begin_layout Subsection
+Post-mortem 100
+\end_layout
+
+\begin_layout Standard
+Nice writeup of the process with included reflection.
+ While not a traditional method of doing a post-mortem, this works because
+ you reflect in a manner that makes sense to you.
+\end_layout
+
+\begin_layout Subsection
+Evals
+\end_layout
+
+\begin_layout Subsubsection
+• Eugene Kuznetsov: self
+\end_layout
+
+\begin_layout Itemize
+o Strengths: • Takes initiative and the leadership role of the group as
+ he would describe what has to be done, plans out what we should focus on
+ and do • Very strong worker and cares deeply if what he has done works
+ or not.
+ If not, he would take the time and more to fix errors as well as find ways
+ better the code and functions of the game.
+ 
+\end_layout
+
+\begin_layout Itemize
+o Weaknesses: • He would overwork himself or would take more work that he
+ could handle.
+ 
+\end_layout
+
+\begin_layout Itemize
+I can be intensely focused and pick new concepts up pretty well, especially
+ when learning on my own.
+ So, I tend to successfully code up functional features; however, my coding
+ tends to be messy and I feel inefficient in the progress I make when considerin
+g the time I spend on given problems.
+ I’m the one who pushes for the group to produce and submit our materials/produc
+ts on time, and I keep everyone in the know regarding what I’ve completed
+ or have been working on.
+ I’ve written a good chunk of the postmortem, and I’ve stayed up for multiple
+ nights for this project at the detriment of my sleep as well as other classwork
+ to get our submissions together.
+ I can’t say I didn’t expect this to happen, it’s college after all, but
+ time management and communication are two tenets I wish our group had taken
+ to heart.
+\end_layout
+
+\begin_layout Subsubsection
+• Spencer Cohen: 
+\end_layout
+
+\begin_layout Itemize
+o Strengths: • Although not being in class a lot, he would take the time
+ out to continuously create new assets and models to be placed into the
+ maps and levels.
+ • Would continue to update past files of the project and keep Eugene and
+ I informed on which files to use as well as what not to change as he would
+ also be working on the same area.
+ 
+\end_layout
+
+\begin_layout Itemize
+o Weaknesses: • Although keeping us informed on changes he has made to the
+ file, communication on him and where he is during class times was lacking.
+ 
+\end_layout
+
+\begin_layout Itemize
+Spencer is a very productive group member who tends to create very high-quality
+ work; however, his attendance and inconsistent communication habits tend
+ to be pretty difficult to work with.
+ That being said, when he’s able to, Spender tends to carry his weight,
+ very well considering his ill-fitting schedule.
+ He does a fantastic job on 3D modeling, cutscene rendering, as well as
+ taking the reins on coding our project once in a while, considering I either
+ get tired, or I need to focus on other work.
+ The issue is that he’s not always around, and more importantly, he tends
+ to drop off the face of the earth, sometimes forcing us to push toward
+ a deadline or pass an assignment in without him since he isn’t responsive
+ nor communicative during those moments.
+ That being said, as a group we have a bad track record of only coming together
+ as we trek closer to the deadline, which is a trend I personally try to
+ steer way from or alleviate by getting as much done beforehand as humanely
+ possible.
+ However, around these moments Spencer does end up becoming one of the leading
+ forces to push us forward and keep us pointed in the right direction in
+ regard to getting our project/submission done.
+\end_layout
+
+\begin_layout Subsubsection
+• Josue Mendez-Dietsch: self
+\end_layout
+
+\begin_layout Itemize
+o Strengths: • Tried to help Spencer and Eugene with their areas when working
+ together as a group.
+ • Tried to communicate as much as I could on what I was doing or just overall
+ progress.
+ 
+\end_layout
+
+\begin_layout Itemize
+o Weaknesses: • I would get distracted at times when working together as
+ a group.
+ • I feel that I could have done more for sounds as well as implementation
+ of levels but failed to.
+ 
+\end_layout
+
+\begin_layout Itemize
+Josue tends to be the positive and optimistic one in our group.
+ In addition to usually maintaining our group’s morale, he has the most
+ consistent attendance as well as communication.
+ He is willing to put in the effort in learning and exploring Unreal to
+ achieve what the group expects him to, which in his case was level design
+ and layout.
+ Although banter with Josue tended to keep my spirits up, at times it did
+ get a bit distracting when we’d go off on conversational tangents, although
+ that is, to an extent, my fault as well.
+ However, while Josue does put forth and earnest effort in learning Unreal
+ and Blender.
+ But either due to his time constraints or perhaps a technologically strained
+ laptop, I often found that a lot of that time is eaten away by learning.
+ On its own, that is great; however, it gets pretty concerning whenever
+ we’re nearing a deadline and I’m wondering to myself if, perhaps, we could
+ have finished things sooner by having him prioritize producing work, rather
+ than learning how to do so.
+ Then again, I had to spend time on my own to learn the tools and systems
+ I needed.
+ I admit in feeling that I could’ve been more efficient in my own implementation
+s as well.
+\end_layout
+
+\begin_layout Subsubsection
+• As a Group 
+\end_layout
+
+\begin_layout Itemize
+o Strengths: • Coming in as a group we are able to work in tandem and constructi
+vely to be able to finish our work.
+ 
+\end_layout
+
+\begin_layout Itemize
+o Weaknesses: • Overestimating how much we would be able to accomplish for
+ the project and planning too much.
+ 
+\end_layout
+
+\begin_layout Section*
+Phase 95/100
+\end_layout
+
+\begin_layout Standard
+Phase is a really solid game and you guys make good progress between the
+ verticle slices and what you turned in.
+ A lot of the little changes like cinematics did a great job of pulling
+ your game together.
+ The changes also made it feel like there was real progression and a goal
+ for each level, making it feel more like a cohesive game.
+ The area where it would have used more work was in regards to aesthetics.
+ The looks felt a bit generic and could have used more elements pulling
+ it together.
+ The final play through also showed a good amount on content and a reasonable
+ amount of time required to complete it.
+ A really solid game with minor issues.
+ My notes follow.
+\end_layout
+
+\begin_layout Itemize
+some instructions are a little hard to read
+\end_layout
+
+\begin_layout Itemize
+hands are still a bit weird
+\end_layout
+
+\begin_layout Itemize
+as you walk the hands make me think of the song Kung fu fighting
+\end_layout
+
+\begin_layout Itemize
+aesthetic is better but still feels a little off
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+really inproved a lot
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+the fact that the items being carried rotates is a bit of a problem
+\end_layout
+
+\begin_layout Itemize
+cinematic to show where objects should be placed is a nice touch
+\end_layout
+
+\begin_layout Itemize
+seems a little hard to drop objects
+\end_layout
+
+\begin_layout Itemize
+we saw that one bug that show up where the fall didn't respawn correctly
+\end_layout
+
+\begin_layout Itemize
+menu is a good touch
+\end_layout
+
+\begin_layout Itemize
+a bit hard to see when carrying something
+\end_layout
+
+\begin_layout Itemize
+cinematics showing more than once a little distracting but not too bad and
+ probably better than not being able to replay them
+\end_layout
+
+\begin_layout Itemize
+really nice touch with the boxes aroud buttons and how they retract
+\end_layout
+
+\begin_layout Subsection
+Post-mortem 93
+\end_layout
+
+\begin_layout Standard
+Your post-mortem discusses the basics of what went right and wrong during
+ the development of your game.
+ A bit more reflection on these points would have been nice though.
+\end_layout
+
+\begin_layout Subsection
+Evals
+\end_layout
+
+\begin_layout Subsubsection
+Mike: self
+\end_layout
+
+\begin_layout Itemize
+While I think I could have done more overall, I do believe I did my fair
+ share of work on this project.
+ At first I didn’t have too much to do since I was in charge of meshes while
+ everyone else was doing more mechanic/gameplay things.
+ Once we started putting levels together, I feel that I rose up as the leader
+ of the project, taking charge of who was doing what and coordinating work
+ to the other members.
+ I was working as well, and rather than just focusing on the art/design
+ side of things, I delved more into blueprints, cinematics, sound design,
+ and just working on making the game flow well.
+ At first communication wasn’t my strong suit, probably due to me not really
+ knowing the other members of my group too well.
+ Eventually, I came out of my shell and initiated many of the work-related
+ conversations we’d have out of class to make sure we were all working on
+ something for the project and doing our part.
+ Time management was another issue we all faced as a group, but by the end
+ of the semester we all did a good job getting things done by the deadlines
+ we set for ourselves.
+ Had I not been taking 17 credits this semester plus a TA job, I believe
+ that I could have put more effort into our work and made a better final
+ product.
+ 
+\end_layout
+
+\begin_layout Itemize
+Mike put so much time and effort into our game, especially in the back half
+ of the semester.
+ He spent a lot of time on the animations at the start of the game’s production,
+ and did an amazing job designing levels.
+ I always felt like Mike was going above and beyond, not only putting the
+ most effort into our project, but also to our group, constantly volunteering
+ to be the person to compile our data for group evaluations, as well as
+ teaching others how to use GitKraken properly.
+ If there was a way to fix a problem, Mike usually knew what to do.
+\end_layout
+
+\begin_layout Itemize
+Mike kept the game on track from beginning to end.
+ He did great work on the level design and creation, as well as overseeing
+ and communicating between all the group members.
+ Overall, great work and great working with him.
+\end_layout
+
+\begin_layout Itemize
+Mike was the all star of the group.
+ He was the team leader that made sure everyone was on their stuff and he
+ brought everything together every time.
+ He was the biggest part of the project and took it off the group without
+ a doubt.
+\end_layout
+
+\begin_layout Subsubsection
+Aidan: self
+\end_layout
+
+\begin_layout Itemize
+Aidan did some excellent work on our project, with his mechanics being the
+ core of our game.
+ He also worked on the menus and a lot of the interactive elements of the
+ game, and always found time to work on the project.
+ Although he contributed a lot to the project, his work wasn’t always as
+ good as we needed it to be.
+ His code was often messy, and at times not even he knew exactly what he
+ was doing.
+ This led to many obstacles when debugging and cleaning up the game, since
+ we’d usually encounter an error in his code and he wouldn’t know how to
+ fix it any more than the rest of us.
+ He also overestimated his ability in terms of the things he could get done,
+ and how fast he could get them done.
+ Working fast can be seen as a good thing, but sometimes he’d get ahead
+ of himself and work past a benchmark we’d set, which would cause many merge
+ conflicts, all of which (to my recollection) he was responsible for.
+\end_layout
+
+\begin_layout Itemize
+I don’t know if I’m supposed to write about myself, but I feel like I did
+ a really great job on this project.
+ Some of my contributions in the beginning (especially in the elemental
+ state changes) were a little messy, but I learned better practices as the
+ semester went, like commenting my code and pushing small changes to GitKraken,
+ as well as effectively communicating what it was that I was working on.
+ I felt that I contributed lots of time to the project on both the mechanics
+ side, and the level design side.
+ I designed the bones of the tutorial level, and the white room in the second
+ level, as well as programming the interactions within the levels.
+\end_layout
+
+\begin_layout Itemize
+Aidan did much of the code labor in implementing the mechanics.
+ He was always enthusiastic and willing to do the work, even if it was a
+ bit messy and convoluted.
+ Overall, a lot of solid work and good working with him.
+\end_layout
+
+\begin_layout Itemize
+Aidan was a hard worker just not a smart worker.
+ He put a lot of hours in, he said, but rarely had a correlative amount
+ of progress.
+ I’d say he was one of the more difficult groupmates just because he was
+ quite stubborn about his work.
+ He also spoke in a quite patronizing tone to us when explaining his work.
+ He did pull his weight in hours though.
+\end_layout
+
+\begin_layout Subsubsection
+Jack: self (but not himself)
+\end_layout
+
+\begin_layout Itemize
+Jack is probably the MVP of our group.
+ Like me, he didn’t have as much to do at the beginning of our work cycle,
+ so I didn’t expect he’d be doing too much throughout.
+ After our first vertical slice, his talents began to shine through.
+ I’m not entirely sure how much time he spent working on his parts of the
+ game, but whenever we’d come together to work, he was always on top of
+ his game.
+ He was definitely the best debugger out of any of us, and he was probably
+ the most versatile in terms of what he was capable of doing on our project.
+ Whether it be cinematics, interactive code, gameplay mechanics, HUDs, you
+ name it.
+ If there was a problem, Jack was the most determined out of all of us to
+ tackle it as quick as we could without cutting any corners.
+ The only negative thing I can say about Jack was that he wasn’t the best
+ at communicating outside of class, but this was due to his busy schedule,
+ which is understandable as someone who also had a very busy semester.
+ If you’re giving any extra points to anyone in this group, give them to
+ Jack.
+ 
+\end_layout
+
+\begin_layout Itemize
+Jack’s greatest strength was his problems solving ability.
+ I always felt like if I had a problem, Jack was able to figure out how
+ to fix it.
+ That being said, I felt like after the second vertical slice, Jack didn’t
+ do as much for the project unless specific problems were brought to him.
+ His work was always good though, especially the contributions made at the
+ beginning of the semester.
+ Jack was always good to sit and meet for a long period of time though to
+ make sure our work could get done.
+\end_layout
+
+\begin_layout Itemize
+Jack was a great groupmate.
+ He was always a voice of reason which prevailed if there was any type of
+ disagreement between someone and Aidan.
+ I would consider giving him a bonus on the grade.
+ He was very pleasant to work with and only spoke when he had a calculated
+ comment that added to the situation
+\end_layout
+
+\begin_layout Subsubsection
+Derek: self
+\end_layout
+
+\begin_layout Itemize
+When thinking of Derek’s contribution to the group, I think of your story
+ about when you were in college working on a group project, and you felt
+ like you didn’t contribute much despite your group members disagreeing
+ with you.
+ Derek was the one who came up with the idea of the game, and many of his
+ ideas were the ones we ended up going with and fleshing out in our final
+ product.
+ He worked a lot towards the beginning of our work cycle, developing interactive
+ blueprints alongside Aidan, grabbing physics, and other things.
+ Later in the semester, he wasn’t able to put in as much time as he had
+ before (due to sports and senior project), which is kind of why I emerged
+ as a de-facto leader of the project.
+ On top of that, he wasn’t needed as much later on in the projects development,
+ similar to how you said you weren’t needed as much on your project (to
+ my knowledge, I may be remembering this story incorrectly).
+ Even though he wasn’t putting in as much work towards the end, I feel that
+ he should have kept in touch more often about the little things that he
+ would be working on, despite development still going smoothly without him
+ completely in the loop.
+ Despite Derek’s part in the group dwindling as the semester went on, I
+ don’t believe he should get points deducted or anything like that, since
+ he did serve a vital role to our project, and with his time limitations
+ I believe he contributed to the group as best as he could.
+\end_layout
+
+\begin_layout Itemize
+Derek was great at the beginning of the semester, putting in work to make
+ sure our first vertical slice was done, and developing concepts and some
+ level interactions.
+ Towards the middle, he really started to drag on his work, and it took
+ weeks for Derek to finish making the pause menu.
+ Fortunately, he did finish it, and we were able to implement it into our
+ game.
+ After our second vertical slice Derek did not make many contributions.
+\end_layout
+
+\begin_layout Itemize
+Derek put a lot of effort into the design and development of mechanics and
+ ideas.
+ He put in a decent amount of labor in the beginning of the semester, which
+ slowly declined as the semester went along, but still overall put in a
+ good amount of work.
+ Overall, a good amount of development work and I enjoyed working with him.
+\end_layout
+
+\begin_layout Itemize
+I really fell off in the last sprint.
+ The way we began doing the levels was just working on them in one computer
+ and transferring assets to it, as other things brought merge conflicts.
+ I provided insight for the way things should be implemented in terms of
+ code and level design, but was more absent when it came to the level creation
+ than the rest of my group mates.
+ I put my focus more so on my other classes, and let my groupmates know
+ so, but it did put a heavier weight on them and resulted in a less fleshed
+ out product.
+\end_layout
+
+\begin_layout Section*
+Marble 95/100
+\end_layout
+
+\begin_layout Subsection
+Game
+\end_layout
+
+\begin_layout Standard
+The marble game you created was a bit simpler than others but the execution
+ of it and level of polish was higher than expected and made up for the
+ simpler premise.
+ You had lots of nice touch like good sounds, interesting progression, a
+ good map, etc.
+ that really pulled the game together.
+ Some small issues like the single 0 for seconds were distracting but the
+ overall polish was good.
+ Good execution and good amount of content.
+ More detailed notes follow.
+\end_layout
+
+\begin_layout Itemize
+single 0 on timer is still an issue
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+you really need zero padding
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+the difference in difficulty for different players is amazing
+\end_layout
+
+\begin_layout Itemize
+added sound effects for bumpers and the like is good
+\end_layout
+
+\begin_layout Itemize
+solid game, parts fit together well
+\end_layout
+
+\begin_layout Itemize
+sounds are good
+\end_layout
+
+\begin_layout Itemize
+good replayability
+\end_layout
+
+\begin_layout Itemize
+really nice map to levels and ability to go back and replay
+\end_layout
+
+\begin_layout Subsection
+Postmortem 95(if self eval is done, 75 if not (20% evals, 20 who did what,
+ 60% writeup)
+\end_layout
+
+\begin_layout Standard
+The post mortem addresses what you ran into and shows some analysis of what
+ went well and what didn't and possible ways of improving that which didn't.
+ 
+\end_layout
+
+\begin_layout Subsection
+Evals
+\end_layout
+
+\begin_layout Standard
+I think everyone in the group contributed a fair and solid amount to the
+ project.
+ -Stefan
+\end_layout
+
+\begin_layout Subsubsection
+Stefan self (but no self)
+\end_layout
+
+\begin_layout Itemize
+Man, where do I begin with Stefan.
+ To put it bluntly, he did by far the least work out of anyone in the group.
+ He has caused so many tight deadlines, and I don’t know why.
+ In class I only ever saw him doing work for other classes, and in person,
+ while I did see him working on stuff, it looked like he was working while
+ taking several small breaks at any chance he could.
+ For example, he made one level (Level 10) and it took him all of the time
+ between Vertical Slice 2 and the final game to finish it.
+ I mean, we met on 5/2 and he said he’d have it to me by the end of the
+ day.
+ That didn’t happen.
+ He said the same thing to me that Friday in class.
+ That didn’t happen.
+ I had the entire rest of the game done on early Saturday, and he didn’t
+ get me his level until Sunday (The day before it was due) at 10:30pm, and
+ it was running on a month-old version of the game, with no UI implemented.
+ It was as bare bones as it could get.
+ Granted in the beginning of the project he did do good work on some mechanics
+ (notably the fan and his see saw), but other than that his communication
+ was poor.
+ He came to class maybe half of the time, and on top of not showing up for
+ our presentation of our game on Monday, he hasn’t texted any of us back
+ since Sunday.
+ We’ve been trying to get in contact with him and none of us have been able
+ to.
+ I will actively avoid working with Stefan in group projects from now on
+ in any class I may have with him, since I know now, he is a terrible team
+ player and cannot manage his time properly.
+ He has done so little for the team it is sad, and I wish I could say better
+ about him.
+ All of the late nights I’ve had to pull for this game have been because
+ he hasn’t gotten things to be until 10pm-12am the night before, and I can’t
+ deal with that when my task is to be the one to put everything together.
+ Get fucked.
+\end_layout
+
+\begin_layout Itemize
+Stefan - got most of his work done on time, but occasionally would run a
+ little late.
+ Communication was pretty poor and he wouldn't really respond to our groupchats
+ or attend our out-of-class meetups.
+ He still got the work done though, so it really wasn't more than a mild
+ inconvenience.
+\end_layout
+
+\begin_layout Subsubsection
+Sean self (no self)
+\end_layout
+
+\begin_layout Itemize
+did a very good job implementing the UI and dishing out a bunch of levels.
+ As for who went above and beyond, Sean did a really good job with keeping
+ everyone on track and took it upon himself to do most of the group write
+ ups.
+\end_layout
+
+\begin_layout Itemize
+Sean - definitely pulled more weight than anyone else in the group.
+ On the nights before a vertical slice was do, it was Sean that was staying
+ up making sure everything fit smoothly together.
+ He was the most active in the group chat and tried to get our group to
+ run as efficiently as possible.
+ All around MVP.
+\end_layout
+
+\begin_layout Subsubsection
+Kenny self
+\end_layout
+
+\begin_layout Itemize
+did very well with implementing sound into our game and produced some meaty
+ levels.
+ 
+\end_layout
+
+\begin_layout Itemize
+Kenny’s work never ceases to amaze me.
+ He made the boss level, level 9, and level 7.
+ Next to me he’s made the most levels and his levels are more engaging than
+ my 5 combined honestly.
+ It took him until halfway to Vertical Slice 2 to finish the final level,
+ but it came out so well I can’t even be mad that it took that long.
+ His quality standard is very high, and he’s very good at making specific
+ sounds for specific situations.
+ He’s got a very good work ethic, and I honestly don’t believe I have any
+ complaints about working with him.
+ I hope to work with him again in the future.
+\end_layout
+
+\begin_layout Subsubsection
+Lei 
+\end_layout
+
+\begin_layout Itemize
+did a truly fantastic job with UI visuals, which I think add a significant
+ amount to the game.
+ Finally, 
+\end_layout
+
+\begin_layout Itemize
+Lei leaves me conflicted.
+ She is the type of person that doesn’t like to talk much so I can’t hold
+ that against her, but it leaves something to be desired when It comes to
+ communication.
+ I mean, seriously, I think I had maybe 6 separate conversations with her
+ throughout the entire semester.
+ At the same time though, this did not impact her work ethic at all.
+ The art she designed for the game is phenomenal, and I can’t even begin
+ to pretend like I could ever do something remotely as good as the art she
+ produced for the UI.
+ She even coded in the Menus so when you hover over it, the buttons recede.
+ That is such a little detail I can’t help but admire it (even if I had
+ to implement a lot of her work).
+ Her level is also really fun to play through
+\end_layout
+
+\begin_layout Itemize
+Lei - Sometimes communication was a little poor, but was always present
+ at the time and place that we had agreed to meet. Did her fair share of
+ work and made it pretty clear where she was and what she was doing.
+\end_layout
+
+\begin_layout Subsubsection
+Adam 
+\end_layout
+
+\begin_layout Itemize
+was our tech specialist and was quite helpful when we needed to work with
+ any online repository.
+ 
+\end_layout
+
+\begin_layout Itemize
+I think Adam contributed a decent amount.
+ I know he’s a senior so I understand he couldn’t contribute as much as
+ he’d like to.
+ I think his biggest contribution was making sure we all met and got together
+ to get stuff done; as an organizer he succeeded.
+ As a content creator, he only really created one level and created a nice
+ shaded material (granted I don’t know how to use Maya so I can’t speak
+ on that).
+ Overall though I enjoy working with Adam and he can get things done in
+ a time crunch so I can’t be too mad at him
+\end_layout
+
+\begin_layout Itemize
+Adam - had the tendency to get off topic or distracted, but always got what
+ needed to get done finished on time.
+ Communication was pretty good (as far as our group was concerned), and
+ I really don't have any complaints towards him.
+\end_layout
+
+\end_body
+\end_document

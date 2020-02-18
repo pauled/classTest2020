@@ -1,0 +1,8772 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+3D Games in Unreal
+\end_layout
+
+\begin_layout Section
+To Add
+\end_layout
+
+\begin_layout Itemize
+show this quote at the start of the semester to explain the course
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The principal idea behind problem-based learning is that the starting point
+ for learning should be a problem, a query or a puzzle that the learner
+ wishes to solve.
+ .
+ .
+ Problem-based courses use stimulus material to engage students in considering
+ a problem which, as far as possible, is presented in the same context as
+ they would find it in ‘real life;’ this often means that it crosses traditional
+ disciplinary boundaries.
+ Information on how to tackle the problem is not given, although resources
+ are available to assist the students to clarify what the ‘problem’ consists
+ of and how they might deal with it.
+ Students work cooperatively in a group or team with access to a tutor who
+ is often not an expert in the field of the particular problem presented,
+ but someone who can facilitate the learning process.
+ (Boud and Feletti, quoted by Kay et al., 2000)
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+2019 end of semester notes
+\end_layout
+
+\begin_layout Itemize
+Git needs actual teaching and maybe a lab so that it can be used
+\end_layout
+
+\begin_layout Itemize
+guests are good but probably not more than 3-4
+\end_layout
+
+\begin_layout Itemize
+reflective stuff
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+keep initial time discussing in snall groups, discussion when it is overall
+ game idea
+\end_layout
+
+\begin_layout Itemize
+instead of more discussion have them do in class testing of each others
+ games to give more feedback from the perspective of what's possible
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+show games built in unreal to emphasize what is possible in unreal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+show features through how they were used
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+show examples of the final projhect games so they see what is possible
+\end_layout
+
+\begin_layout Itemize
+emphasize that unreal takes a lot of processing power and that they may
+ need fast laptops
+\end_layout
+
+\begin_layout Itemize
+look into post processing effects in unreal (apparently a really big part)
+\end_layout
+
+\begin_layout Itemize
+TA good even at one day a week 
+\end_layout
+
+\begin_layout Itemize
+be sure to smooze my way around the room every day they work in groups,
+ they like and it isn't an interuption
+\end_layout
+
+\begin_layout Section*
+For 2019
+\end_layout
+
+\begin_layout Itemize
+for HW 2 have students be required to review other groups ideas to give
+ feedback on areas of possible problems
+\end_layout
+
+\begin_layout Itemize
+have students required to review others tutotials and give feedback?
+\end_layout
+
+\begin_layout Itemize
+Make grade from full # and not .5 (87 not 86.5) and have A start at 95, too
+ many high grades
+\end_layout
+
+\begin_layout Subsection
+subjects
+\end_layout
+
+\begin_layout Itemize
+topics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+talk about AI
+\end_layout
+
+\begin_layout Itemize
+full github stuff
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+git kracken
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+retargeting skelotons
+\end_layout
+
+\begin_layout Itemize
+character animations
+\end_layout
+
+\begin_layout Itemize
+state machines
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+walking to idleing to jumping animations
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+levewl streaming
+\end_layout
+
+\begin_layout Itemize
+packaging
+\end_layout
+
+\begin_layout Itemize
+landscaping advanced
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+window blowing etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+advanced lighting
+\end_layout
+
+\begin_layout Itemize
+migrating and exporting assets
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+have them learn stuff like landscape on their own and teach AI instead
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+maybe run this as a flipped classroom
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+post my notes from the lectures
+\end_layout
+
+\begin_layout Subsection
+usability testing
+\end_layout
+
+\begin_layout Itemize
+give more time
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+due Wednesday instead of Monday
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+intercom post
+\end_layout
+
+\begin_layout Subsection
+tutorials
+\end_layout
+
+\begin_layout Itemize
+only do one and each student needs to review 2
+\end_layout
+
+\begin_layout Subsection
+group evaluations
+\end_layout
+
+\begin_layout Itemize
+keep as is
+\end_layout
+
+\begin_layout Subsection
+People who skipped final
+\end_layout
+
+\begin_layout Standard
+Many paxton 
+\end_layout
+
+\begin_layout Standard
+kyle
+\end_layout
+
+\begin_layout Section*
+For 2018
+\end_layout
+
+\begin_layout Itemize
+Fix points (current distribution makes no sense with only 4 labs)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Labs
+\end_layout
+
+\begin_layout Itemize
+Tutorials (group)
+\end_layout
+
+\begin_layout Itemize
+Final Project (group)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+game
+\end_layout
+
+\begin_layout Itemize
+writeup
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+homeworks (group)
+\end_layout
+
+\begin_layout Itemize
+reflections
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+conversation points
+\end_layout
+
+\begin_layout Itemize
+maybe a lab in git
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+spend a couple of days just on github
+\end_layout
+
+\begin_layout Itemize
+don't bother with the git plugin and explain git ignore
+\end_layout
+
+\begin_layout Itemize
+don't use gitdesktop, use command line
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+have a TA in the room one day a week
+\end_layout
+
+\begin_layout Itemize
+reflections
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+keep them during designs
+\end_layout
+
+\begin_layout Itemize
+keep one with first usability test
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+every day have each group put what they are currently working on onto the
+ board, each group then talks to others working in similar areas
+\end_layout
+
+\begin_layout Itemize
+Keep CPM but deemphasize after the initial
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+shift to scrum light after?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+unreal engine stuff
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Be sure to show the unlit setting so that they can build without adding
+ lights
+\end_layout
+
+\begin_layout Itemize
+be sure they realize that they can move Tabs anywhere
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+blueprints can be a tab and not a separate window
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+hit the difference between get player character/controller/etc since they
+ need it
+\end_layout
+
+\begin_layout Itemize
+if bring back in C++ make it simple
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+maybe a little tutorial for just those who want it
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\end_layout
+
+\begin_layout Section*
+Feedback
+\end_layout
+
+\begin_layout Itemize
+first part of class
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+better introduction to blueprints
+\end_layout
+
+\begin_layout Itemize
+post notes in smaller chunks and not the entire long document
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+during second part
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+more one-on-one sit down feedback with individual groups
+\end_layout
+
+\begin_layout Itemize
+prepare small lessons for single groups on what they need and post notes
+ to a repository
+\end_layout
+
+\begin_layout Itemize
+keep a way of forcing presentations, like Ithacon
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+party crash Whalen by putting a table next door or the equivelant
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+no press packet instead
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+groups are responsible for tutorials on their core mechanic
+\end_layout
+
+\begin_layout Itemize
+one or two required per group
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+make the post-mortem just a reflection paper
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+tell them early so that they can start making notes from the start of the
+ project
+\end_layout
+
+\begin_layout Itemize
+explain why they are important
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+group work
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+set up github earlier
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+have them use desktop version
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+more discussion about how game development teams actually work
+\end_layout
+
+\begin_layout Itemize
+give basic agile development lecture
+\end_layout
+
+\begin_layout Itemize
+introduce trello (and tell them I will review)
+\end_layout
+
+\begin_layout Itemize
+have them record hours (maybe use what Toby does for software engineering)
+\end_layout
+
+\begin_layout Itemize
+each person must say in class what they did each week
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+guilt them into doing a better job of contributing
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+no groups over 4 people
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+have only one CPM and it exists to help them determine if the project is
+ too ambitious
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+have them double the number of hours they think someone will need for all
+ tasks
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+part of usability testing is that I must approve questions before they use
+ them
+\end_layout
+
+\begin_layout Itemize
+show previous games on day one of the course so that they have an idea of
+ what they can do
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+general changes
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+change prerequisites
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+107 is not enough
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+show previous games on day one of the course so that they have an idea of
+ what they can do
+\end_layout
+
+\begin_layout Itemize
+80 20 is not above and beyond
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the final 20 percent comes from learning something on your own, 
+\end_layout
+
+\begin_layout Itemize
+not above and beyond
+\end_layout
+
+\begin_layout Itemize
+better motivation this way
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Subsection
+Course basics
+\end_layout
+
+\begin_layout Itemize
+course is about building games
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+show off some of the games
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+course based on a game engine
+\end_layout
+
+\begin_layout Itemize
+course will be based on book 
+\end_layout
+
+\begin_layout Itemize
+this course teaches problem solving
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+more important than just about anything else
+\end_layout
+
+\begin_layout Itemize
+Use a messy learning (PBL) basis
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+course is built around projects (labs)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+basically around building things
+\end_layout
+
+\begin_layout Itemize
+results show that you understand
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+there will be a large final project
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+This class is a lot of work
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Course is Messy Learning!
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+discuss
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Go over syllabus
+\end_layout
+
+\begin_layout Itemize
+late work
+\end_layout
+
+\begin_layout Itemize
+SLOs
+\end_layout
+
+\begin_layout Subsection
+Grading breakdown
+\end_layout
+
+\begin_layout Subsection
+Questions
+\end_layout
+
+\begin_layout Subsection
+Get to know each other
+\end_layout
+
+\begin_layout Itemize
+go around room with introductions
+\end_layout
+
+\begin_layout Itemize
+give backgrounds
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+gamer
+\end_layout
+
+\begin_layout Itemize
+programmer
+\end_layout
+
+\begin_layout Itemize
+artist
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+take class picture and use seating chart
+\end_layout
+
+\begin_layout Subsection
+What is a game engine?
+\end_layout
+
+\begin_layout Itemize
+It makes everything go
+\end_layout
+
+\begin_layout Itemize
+instead of building an entire game from scratch, engine does it
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+physics engine
+\end_layout
+
+\begin_layout Itemize
+display software
+\end_layout
+
+\begin_layout Itemize
+renderer
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What are example engines
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unreal
+\end_layout
+
+\begin_layout Itemize
+Source
+\end_layout
+
+\begin_layout Itemize
+Unity
+\end_layout
+
+\begin_layout Itemize
+etc.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+why we are using unreal
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+free
+\end_layout
+
+\begin_layout Itemize
+industry
+\end_layout
+
+\begin_layout Itemize
+equivalent to others
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Install Unreal for next class!
+\end_layout
+
+\begin_layout Itemize
+it is a hog...
+\end_layout
+
+\begin_layout Itemize
+run 4.18.2
+\end_layout
+
+\begin_layout Section
+First project-build a structure
+\end_layout
+
+\begin_layout Subsection
+Create a New Project
+\end_layout
+
+\begin_layout Itemize
+Open the Epic Games Launcher and Launch the Unreal Engine
+\end_layout
+
+\begin_layout Itemize
+Select 
+\series bold
+Games
+\series default
+ from 
+\begin_inset Quotes eld
+\end_inset
+
+New Projects Categories
+\begin_inset Quotes erd
+\end_inset
+
+ area then next
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Third Person -> Next
+\end_layout
+
+\begin_layout Itemize
+Leave all project setting the same
+\end_layout
+
+\begin_layout Itemize
+name project 
+\series bold
+
+\begin_inset Quotes eld
+\end_inset
+
+UnrealDevelopment
+\begin_inset Quotes erd
+\end_inset
+
+
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+Click 
+\series bold
+[Create Project]
+\end_layout
+
+\begin_layout Itemize
+Old way
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Blueprint
+\series default
+ menu select 
+\series bold
+Third Person
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+square menus under blueprint/c++
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Select 
+\series bold
+Desktop / Console
+\end_layout
+
+\begin_layout Itemize
+Select 
+\series bold
+Maximum Quality
+\end_layout
+
+\begin_layout Itemize
+Select 
+\series bold
+With Starter Content
+\series default
+ (gives us some materials and props to work with)
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Basic Unreal Navigation
+\end_layout
+
+\begin_layout Itemize
+When the level editor has loaded explain each of the visible panels:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mode Panel
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+all design elements to place in scene
+\end_layout
+
+\begin_layout Itemize
+all tools
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+paint
+\end_layout
+
+\begin_layout Itemize
+terrain
+\end_layout
+
+\begin_layout Itemize
+primatives
+\end_layout
+
+\begin_layout Itemize
+light
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Content Browser
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+folders of project content
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Viewport
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the scene
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Toolbar
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+high level control
+\end_layout
+
+\begin_layout Itemize
+setting
+\end_layout
+
+\begin_layout Itemize
+build
+\end_layout
+
+\begin_layout Itemize
+play
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+World Outliner
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+everything that is in scene
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Details
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+details of object selected
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+additional info
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Tab structure
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+all panels can be found in their own tab
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+yellow triangle = hidden tab
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+right-click
+\series default
+ tab to hide
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+If any panels are 
+\bar under
+missing
+\bar default
+, they can be found in the 
+\series bold
+Windows
+\series default
+ 
+\series bold
+Menu
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+show them
+\end_layout
+
+\begin_layout Itemize
+basic movement through viewport
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+middle button up and down
+\end_layout
+
+\begin_layout Itemize
+left button forward and back
+\end_layout
+
+\begin_layout Itemize
+right look up and down
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+how to play
+\end_layout
+
+\begin_layout Itemize
+(mouse is really useful here)
+\end_layout
+
+\begin_layout Subsection
+build a room
+\end_layout
+
+\begin_layout Itemize
+new level
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+empty level
+\end_layout
+
+\begin_layout Itemize
+save the level (boxRoom)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+place 
+\series bold
+Geometry box
+\series default
+ (Modes->Place->Geometry)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+brush setting
+\series default
+s (details tab lower right)
+\end_layout
+
+\begin_layout Itemize
+x: 1000
+\end_layout
+
+\begin_layout Itemize
+y: 1000
+\end_layout
+
+\begin_layout Itemize
+z: 25
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag figure into scene for scale and put on floor
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Content browser (click folder thingy top left)->Content->Mannequin->Character->M
+esh
+\end_layout
+
+\begin_layout Itemize
+UE4_manniquin_skeleton
+\end_layout
+
+\begin_layout Itemize
+get sizes right, room should be about 10x10 if mannequin in 1
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+add directional light
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Modes->Lights->Directional light
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+play
+\end_layout
+
+\begin_layout Itemize
+create walls using 
+\series bold
+Geometery boxes
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+scale x:1 y:1000 z:300
+\end_layout
+
+\begin_layout Itemize
+rotate and move into place 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drop an object to the floor
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+PC: end
+\end_layout
+
+\begin_layout Itemize
+Mac: Fn + right arrow
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+option
+\series default
+ to duplicate (
+\series bold
+alt
+\series default
+)
+\end_layout
+
+\begin_layout Itemize
+use perspective mode to place
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+upper right of viewport (looks like stacked squares)
+\end_layout
+
+\begin_layout Itemize
+click on one to get back
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+duplicate floor to make a ceiling
+\end_layout
+
+\begin_layout Itemize
+place a point light into scene
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+change intensity and attentuation radius until you can see walls
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+play
+\end_layout
+
+\begin_layout Itemize
+apply materials to floor and ceiling
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+apply to walls
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+under geometry select adjacent wall surfaces
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+apply materials to surfaces (surface material) (m_tech_hex)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+be sure to apply a wood somewhere
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+change the scale 
+\series bold
+u and v and apply
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Build a full level
+\end_layout
+
+\begin_layout Itemize
+create 
+\series bold
+new level
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+default
+\end_layout
+
+\begin_layout Itemize
+save as 
+\series bold
+fullLevel
+\end_layout
+
+\begin_layout Itemize
+delete floor
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Geometry Box
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush settings
+\end_layout
+
+\begin_layout Itemize
+x: 5000
+\end_layout
+
+\begin_layout Itemize
+y:3000
+\end_layout
+
+\begin_layout Itemize
+z: 300
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+snap grid to 50 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(number next to grid at the top of the screen)
+\end_layout
+
+\begin_layout Itemize
+snap grid sets how things move, ie snap to locations
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+copy box and move up 50
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+mode | Geometry editor
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(
+\series bold
+all using perspective view)
+\end_layout
+
+\begin_layout Itemize
+select new box corners and move in by 50 (click on each corner)
+\end_layout
+
+\begin_layout Itemize
+don't change that it is taller then old box
+\end_layout
+
+\begin_layout Itemize
+change 
+\series bold
+brush type to subtractive (in brush settings)
+\end_layout
+
+\begin_layout Itemize
+shoe box shape should be left
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+move player start to corner location
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Geometry box
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush size
+\end_layout
+
+\begin_layout Itemize
+x: 20
+\end_layout
+
+\begin_layout Itemize
+y: 200
+\end_layout
+
+\begin_layout Itemize
+z: 300
+\end_layout
+
+\begin_layout Itemize
+copy and rotate these to make a starting house (room with doorway, 2 sides
+ larger box walls
+\end_layout
+
+\begin_layout Itemize
+perspective view is again useful
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+build a maze to run around
+\end_layout
+
+\begin_layout Itemize
+staircase to raised level
+\end_layout
+
+\begin_layout Itemize
+use geometry mode to do a map
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Geometry linear staircase
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Geometry boxes (to form loop around central box)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush
+\end_layout
+
+\begin_layout Itemize
+y,z: 200
+\end_layout
+
+\begin_layout Itemize
+x: 1000, 700, 500, 400
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Geometry box (central)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush
+\end_layout
+
+\begin_layout Itemize
+x,y: 500
+\end_layout
+
+\begin_layout Itemize
+z: 600
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+geometry mode
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+angle third side up to central block
+\end_layout
+
+\begin_layout Itemize
+raise top of 400 length last block
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+now lets get better lighting
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create directional light with rotation opposite from existing light
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+either use rotation took in viewport (circle with arrow around world)
+\end_layout
+
+\begin_layout Itemize
+or just 180 plus the z direction
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+change intensity to 1
+\end_layout
+
+\begin_layout Itemize
+called a fill light
+\end_layout
+
+\end_deeper
+\begin_layout Section
+build an island
+\end_layout
+
+\begin_layout Itemize
+create a new project
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+First Person
+\end_layout
+
+\begin_layout Itemize
+Desktop/console
+\end_layout
+
+\begin_layout Itemize
+maximum quality (
+\series bold
+lower quality of computers are lagging)
+\end_layout
+
+\begin_layout Itemize
+with starter content
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+new level
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+choose 
+\series bold
+default
+\end_layout
+
+\begin_layout Itemize
+delete floor
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Build landscape
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mode 
+\series default
+panel | 
+\series bold
+Landscape | Manage
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag material 
+\series bold
+M_Ground_Grass
+\series default
+ from starter content to material in 
+\series bold
+modes panel
+\end_layout
+
+\begin_layout Itemize
+set 
+\series bold
+location Z: -10
+\end_layout
+
+\begin_layout Itemize
+click 
+\series bold
+create 
+\series default
+(bottom right of mode landscape panel
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Note lines (lighting issue)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Build | Build lighting only
+\end_layout
+
+\begin_layout Itemize
+slow
+\end_layout
+
+\begin_layout Itemize
+note error
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+need lightmass importance volume
+\end_layout
+
+\begin_layout Itemize
+in real game wouldn't want to light unimportant area and waste resources
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Mode | Place 
+\series default
+(left most) 
+\series bold
+| Volumes | Lightmass Importance Volume
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag into scene
+\end_layout
+
+\begin_layout Itemize
+Scale 
+\series bold
+X, Y, Z to 1000 
+\series default
+(bigger then landscape)
+\end_layout
+
+\begin_layout Itemize
+show perspective view to prove centered
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+rebuild lighting 
+\series bold
+Build | Build Lighting Only
+\end_layout
+
+\begin_layout Subsection
+Sculpt landscape
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mode | Landscape | Sculpt
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush size (how big)
+\end_layout
+
+\begin_layout Itemize
+brush fallout (how smooth or rough edges)
+\end_layout
+
+\begin_layout Itemize
+tool strength (how quickly it works)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+create raised island
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+click to raise
+\end_layout
+
+\begin_layout Itemize
+shift click to lower
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+World Outliner
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+put player start above terrain
+\end_layout
+
+\begin_layout Itemize
+(need to be in place mode)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+play scene
+\end_layout
+
+\begin_layout Subsection
+Create rivers
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mode | Landscape | Flatten tool
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+click 
+\series bold
+flatten target
+\end_layout
+
+\begin_layout Itemize
+set to -100
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+put water where you want it
+\end_layout
+
+\begin_layout Itemize
+place water
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Modes | Place | Geometry Box
+\end_layout
+
+\begin_layout Itemize
+go into perspective views and place so that it covers lake bed
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Play with z until right
+\end_layout
+
+\begin_layout Itemize
+change brush settings, not all scaling
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+click on top surface of box
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+you have it right when you can see a material in details
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag starter content 
+\series bold
+M_Water_Lake
+\series default
+ onto 
+\series bold
+Element 0
+\series default
+ of geometry box
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+rebuild light
+\end_layout
+
+\begin_layout Itemize
+play
+\end_layout
+
+\begin_layout Itemize
+problem, you can walk on water
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+World Outliner | Box Brush
+\series default
+ (the water)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in Details under 
+\series bold
+brush settings
+\series default
+ expand
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Create Static Mesh
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+double click 
+\series bold
+Box_Brush_StaticMesh
+\series default
+ in 
+\series bold
+Content Browser
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+(Open section tab to find)
+\series default
+ uncheck 
+\series bold
+enable collision
+\series default
+ on both materials in 
+\series bold
+LOD0
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In details pane scroll down to 
+\series bold
+LOD0
+\series default
+ which is under 
+\series bold
+LOD
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+in 
+\series bold
+LOD0
+\series default
+ expand 
+\series bold
+build settings 
+\series default
+at bottom
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+uncheck 
+\series bold
+generate lightmap UVs
+\end_layout
+
+\begin_layout Itemize
+apply changes
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+exit editor
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+select 
+\series bold
+StaticMesh in World Outliner
+\series default
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in 
+\series bold
+Details
+\series default
+ in 
+\series bold
+Collision
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+change 
+\series bold
+Colision Presets
+\series default
+ from 
+\series bold
+Default
+\series default
+ to 
+\series bold
+NoCollisions
+\end_layout
+
+\begin_layout Itemize
+note this means you can fall forever if you water is too deep, whoops
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Adding foliage
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mode | Foliage
+\end_layout
+
+\begin_layout Itemize
+Starter Content/Props 
+\series bold
+SM_Rock
+\series default
+ and drag into foliage (at the bottom where 
+\series bold
+Add Foliage Type
+\series default
+) is, may have to expand
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+draw some in scene (wow, too many and ugly)
+\end_layout
+
+\begin_layout Itemize
+can use tools down left side to select and delete
+\end_layout
+
+\begin_layout Itemize
+change density for better results
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+still too uniform
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+select SM_Rock look under it
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Placement
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Align Max Angle +/-: 100
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Random Pitch +/-: 100
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+painting
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Scale Min: .5 Max 2.0
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+currently you can walk through them
+\end_layout
+
+\begin_layout Itemize
+first double click on SM_Rock in the content browser to edit
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+add some type of collision from top menu
+\end_layout
+
+\begin_layout Itemize
+save
+\end_layout
+
+\begin_layout Itemize
+close window
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Instance Settings (paint->select SM_Rock->one of the settings under it)
+ 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Collision Presets: BlockAll
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+to get trees go to:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+store.speedtree.com/unreal-engine-4/
+\end_layout
+
+\begin_layout Itemize
+download freeSampleTrees and rename folder trees
+\end_layout
+
+\begin_layout Itemize
+save game
+\end_layout
+
+\begin_layout Itemize
+create a folder in content browser called Trees and open it
+\end_layout
+
+\begin_layout Itemize
+drag folder trees from desktop into content browser folder trees
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+import all 
+\series bold
+make sure to look at menus and check off all model stuff while importing!
+ (didn't see anything to check this time)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+SAVE NOW
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Pick trees to use and put onto island
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Only pull the static meshes (light blue)
+\end_layout
+
+\begin_layout Itemize
+mess with radius (200)
+\end_layout
+
+\begin_layout Itemize
+rebuild light
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+and you thought it took a while before
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+We have an island
+\end_layout
+
+\begin_layout Section
+Creating quality environments (interior)
+\end_layout
+
+\begin_layout Itemize
+build a glass room
+\end_layout
+
+\begin_layout Itemize
+start from any setup
+\end_layout
+
+\begin_layout Subsection
+Prep the area
+\end_layout
+
+\begin_layout Itemize
+select the floor
+\end_layout
+
+\begin_layout Itemize
+change the material to grass
+\end_layout
+
+\begin_layout Itemize
+create a floor
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+geometry box
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+brush setting
+\end_layout
+
+\begin_layout Itemize
+x,y: 400
+\end_layout
+
+\begin_layout Itemize
+z:1
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+make it wood
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+select top surface
+\end_layout
+
+\begin_layout Itemize
+wood floor of their choice
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Put up a first wall and door
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Content Browser
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Content 
+\series default
+folder
+\end_layout
+
+\begin_layout Itemize
+next too filter search for 
+\series bold
+door
+\end_layout
+
+\begin_layout Itemize
+use
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wall_Door_400x400
+\end_layout
+
+\begin_layout Itemize
+SM_Door
+\end_layout
+
+\begin_layout Itemize
+SM_Door_Frame
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Note that things dont fit right
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+scale y of both SM to be 1.2
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Downside to models is that you can't change grab corners same way to change
+ area
+\end_layout
+
+\begin_layout Itemize
+note you can walk through the door
+\end_layout
+
+\begin_layout Subsection
+now the other walls
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Geometry -> Box
+\end_layout
+
+\begin_layout Itemize
+brush settings
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+x,z: 400
+\end_layout
+
+\begin_layout Itemize
+y:10
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+now use a subtractive brush to make a window
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+bottom right of Geometry options
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Now create a new geometry box that is the size the window you made and place
+ it in window
+\end_layout
+
+\begin_layout Itemize
+select a side and change the material to glass
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+play and look at the window from multiple sides
+\end_layout
+
+\begin_layout Itemize
+each side must have the correct material otherwise it is one way...
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+The floor is on FIRE particle systems
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Contents
+\end_layout
+
+\begin_layout Itemize
+search for fire
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+place 
+\series bold
+P_Fire
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+rotate -90,70,-90
+\end_layout
+
+\begin_layout Itemize
+scale .5
+\end_layout
+
+\begin_layout Section
+Basic blueprints
+\end_layout
+
+\begin_layout Subsection
+create a flickering light
+\end_layout
+
+\begin_layout Itemize
+open the first person shooter and the default scene
+\end_layout
+
+\begin_layout Itemize
+in 
+\series bold
+world Outliner 
+\series default
+delete the 
+\series bold
+SkySphereBlueprint
+\end_layout
+
+\begin_layout Itemize
+lower lighting throughout
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+rebuild lighting to see differences
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+put a downward spotlight into the level
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Mobility : Moveable (in transform)
+\end_layout
+
+\begin_layout Itemize
+moveable means you can change intensity
+\end_layout
+
+\begin_layout Itemize
+with light selected click the 
+\series bold
+Blueprint/add Script
+\series default
+ tab 
+\series bold
+(under Details at top in blue)
+\end_layout
+
+\begin_layout Itemize
+label new blueprint 
+\series bold
+Flashing_light_blueprint
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Event graph
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Event Begin Play
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Set Intensity (light component)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag off left side to create a reference to 
+\series bold
+self
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+connect 
+\series bold
+Event Begin Play 
+\series default
+to 
+\series bold
+Set Intensity
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Leave blueprint open and play game 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(make sure you can see graph, it will show stuff)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+set different intensities
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag off from 
+\series bold
+New Intensity
+\series default
+ on left
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Random Float in Range
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+min 0
+\end_layout
+
+\begin_layout Itemize
+max 2000
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+from 
+\series bold
+Set Intensity
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag right and create a 
+\series bold
+Delay
+\series default
+ function
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Delay
+\series default
+ output to 
+\series bold
+Set Intensity
+\series default
+ input
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+create another 
+\series bold
+Random Float in Range
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+min 0
+\end_layout
+
+\begin_layout Itemize
+max .2
+\end_layout
+
+\begin_layout Itemize
+connect to 
+\series bold
+Delay
+\series default
+ duration
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+select all code for flashing light (
+\series bold
+comment the code in blueprint)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+right click and choose last option 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Create Comment from Selection
+\end_layout
+
+\begin_layout Itemize
+label it flashing light code
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+save and exit blueprint editor
+\end_layout
+
+\begin_layout Itemize
+drag flashing_light_blueprint into level at a couple of places
+\end_layout
+
+\begin_layout Itemize
+play-all fixed and nice
+\end_layout
+
+\begin_layout Subsection
+Moveable flashlight
+\end_layout
+
+\begin_layout Itemize
+create 
+\series bold
+spotlight
+\series default
+ near player
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+inner cone: 8
+\end_layout
+
+\begin_layout Itemize
+outer cone: 10
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+transform | Mobility: moveable
+\end_layout
+
+\begin_layout Itemize
+drag spotlight onto player in 
+\series bold
+world outliner
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+run around with lights off in scene
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+cool except that it always faces forward.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open blueprint for character
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+search for character and choose appropriate
+\end_layout
+
+\begin_layout Itemize
+look at 
+\series bold
+viewport
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Add component | spot light
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+go to main scene and delete the light we previously put in
+\end_layout
+
+\begin_layout Itemize
+then play
+\end_layout
+
+\begin_layout Itemize
+go back to character blueprint
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make spotlight a child of 
+\series bold
+FirstPersonCamera
+\end_layout
+
+\begin_layout Itemize
+move light until in front of the player
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+spotlight details
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+inner cone: 8
+\end_layout
+
+\begin_layout Itemize
+outer cone: 10
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+event graph
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+keyboard event
+\series default
+ F key
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+toggle visibility (spotlight)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+play game
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+hit f
+\end_layout
+
+\begin_layout Itemize
+celebrate
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Cut Scenes and Interactions
+\end_layout
+
+\begin_layout Itemize
+Start from third person default
+\end_layout
+
+\begin_layout Subsection
+create an entry cut scene
+\end_layout
+
+\begin_layout Itemize
+Toolbar 
+\series bold
+Cinematics | Add Level Sequence
+\end_layout
+
+\begin_layout Itemize
+name it 
+\series bold
+levelFlyAround
+\end_layout
+
+\begin_layout Itemize
+add a camera (video camera on top menu of sequence)
+\end_layout
+
+\begin_layout Itemize
+set an initial camera position and click the plus next to the 
+\series bold
+Transform
+\series default
+ under the camera
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+this sets the location
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Click above the time line to a point further in the future and then move
+ camera and save location again
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+repeat until you have a sequence
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+show how the camera can mess up the direction if you don't have enough points
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+you can change points inside the details
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+select 
+\series bold
+levelFlyAround
+\series default
+ in world outliner
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in playback chose auto play
+\end_layout
+
+\begin_layout Itemize
+if you have lengthened it but it doesn't all play then 
+\series bold
+drag from the right hand edge of the key frames over to when the new end
+ time is (in camera cuts at the top of the sequnce editor)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+all should work
+\end_layout
+
+\begin_layout Subsection
+disable player input
+\end_layout
+
+\begin_layout Itemize
+notice the player can still move while this runs, this can be a problem
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+disable this
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+uncheck autoplay
+\end_layout
+
+\begin_layout Itemize
+open level blueprint (from top menu)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create a reference to the sequence to play
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+select the sequence in the game world outliner
+\end_layout
+
+\begin_layout Itemize
+then right click in the blueprint editor and 
+\series bold
+create a reference to levelFlyAround (appears near top by default)
+\end_layout
+
+\begin_layout Itemize
+drag a connection to
+\series bold
+ Play (SequencePlayer)
+\end_layout
+
+\begin_layout Itemize
+create 
+\series bold
+Event BeginPlay
+\series default
+ and connect it to 
+\series bold
+Play
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+compile and run
+\end_layout
+
+\begin_layout Itemize
+sequence plays again
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+in blueprint
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+from 
+\series bold
+Play
+\series default
+ connect event to 
+\series bold
+Disable Input
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Target
+\series default
+ on left to 
+\series bold
+Get Player Character
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Get Player Controller 
+\series default
+on left to 
+\series bold
+Player Controller (
+\series default
+on
+\series bold
+ disable input 
+\series default
+node
+\series bold
+)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Get Player Controller
+\series default
+ is a different node from 
+\series bold
+Get player Character
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+play again, now things disable, but don't re inable
+\end_layout
+
+\begin_layout Itemize
+in blueprint
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+connect 
+\series bold
+Disable Input
+\series default
+ to 
+\series bold
+Set Timer By Event
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+LevelFlyAround
+\series default
+ output value create a 
+\series bold
+Get Duration (formerly Get Length)
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Get Duration 
+\series default
+to 
+\series bold
+Set Timer by Event
+\series default
+ input 
+\series bold
+Time (different colors, don't worry)
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Set Timer by Event
+\series default
+ input 
+\series bold
+Event
+\series default
+ on left
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+Add Custom Event
+\series default
+ and label it 
+\series bold
+SequenceEnd
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+from 
+\series bold
+SequenceEnd
+\series default
+ event create a 
+\series bold
+Enable Input
+\end_layout
+
+\begin_layout Itemize
+off the left of 
+\series bold
+enable input
+\series default
+ connect to 
+\series bold
+Get Player Character
+\series default
+ return value (already exists)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+all should work now
+\end_layout
+
+\begin_layout Subsection
+Open door sequence
+\end_layout
+
+\begin_layout Itemize
+drag in 
+\series bold
+Wall_Door_400x400, SM_Door, and SM_DoorFrame
+\end_layout
+
+\begin_layout Itemize
+both door and door frame
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rotate z: 90 degrees
+\end_layout
+
+\begin_layout Itemize
+scale y: 1.2
+\end_layout
+
+\begin_layout Itemize
+make door moveable
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+get everything lined up
+\end_layout
+
+\begin_layout Itemize
+you can walk through door, this is a problem
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+double click 
+\series bold
+SM_Door
+\series default
+ in 
+\series bold
+Content Browser
+\end_layout
+
+\begin_layout Itemize
+top menu 
+\series bold
+Collision
+\series default
+ => 
+\series bold
+Add Box Simplified Collision
+\end_layout
+
+\begin_layout Itemize
+now can't walk through
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Cinematics | Add Level Sequence
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+label it 
+\series bold
+OpenDoor
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag 
+\series bold
+SM_Door
+\series default
+ into the sequence editor and create a sequence of it opening
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+change sequence end to be where motion ends
+\end_layout
+
+\begin_layout Itemize
+save
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag a 
+\series bold
+Box Trigger
+\series default
+ into scene around the door 
+\series bold
+(bottom of Basic menu in place mode)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make it the correct size
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open level blueprint 
+\series bold
+with TriggerBox selected
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+OnActor BeginOverlap
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+next you need to create a reference to the sequence to play
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+select the sequence in the game world outliner
+\end_layout
+
+\begin_layout Itemize
+then right click in the blueprint editor and 
+\series bold
+create a reference to OpenDoor
+\end_layout
+
+\begin_layout Itemize
+connect to the 
+\series bold
+Play (Sequence)
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+OnActorBeginOverlap
+\series default
+ to 
+\series bold
+Play
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+great, except that the door jumps back to closed
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+edit your track
+\end_layout
+
+\begin_layout Itemize
+right click in the 
+\series bold
+green section next to transform
+\end_layout
+
+\begin_layout Itemize
+select 
+\series bold
+Properties
+\series default
+ then set 
+\series bold
+When Finished 
+\series default
+to 
+\series bold
+Keep State
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+to have the door close repeat the process but with
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+OnActor EndOverlap 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Play Reverse
+\end_layout
+
+\begin_layout Itemize
+the old reference to OpenDoor can be used
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+then have them try a moving platform
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+it requires a static mesh...
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Health bar/take damage
+\end_layout
+
+\begin_layout Subsection
+Create fire to hurt you
+\end_layout
+
+\begin_layout Itemize
+from starter content 
+\series bold
+P_Fire
+\end_layout
+
+\begin_layout Itemize
+drop trigger 
+\series bold
+Mode | Volumes | Trigger
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+put around fire
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+with 
+\series bold
+Trigger highlighted
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Open Level Blueprint
+\end_layout
+
+\begin_layout Itemize
+add 
+\series bold
+Add On Actor Begin Overlap
+\end_layout
+
+\begin_layout Itemize
+add 
+\series bold
+Apply Damage
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+connect 
+\series bold
+event
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+other actor
+\series default
+ to 
+\series bold
+damaged actor
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+set 
+\series bold
+Base Damage: 10
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+fire can now damage anyone, theoretically
+\end_layout
+
+\begin_layout Itemize
+in content browser
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+ThirdPersonBP | Blueprints | Third Person Character
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+in 
+\series bold
+Third Person Character 
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in left column 
+\series bold
+add variable 
+\series default
+by clicking plus
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in the blueprint tab
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+name it 
+\series bold
+CurrentHealth
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in details make it a 
+\series bold
+float
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+create another called 
+\series bold
+MaxHealth
+\end_layout
+
+\begin_layout Itemize
+compile
+\end_layout
+
+\begin_layout Itemize
+set each value to 
+\series bold
+100 (only appears after compiling) (for both variables)
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+in event graph
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Add Event | Game | Damage : Event AnyDamage
+\end_layout
+
+\begin_layout Itemize
+drag 
+\series bold
+currentHealth
+\series default
+ into graph and chose 
+\series bold
+get
+\end_layout
+
+\begin_layout Itemize
+add 
+\series bold
+float - float
+\series default
+ and connect currentHealth on top and damage on bottom
+\end_layout
+
+\begin_layout Itemize
+add 
+\series bold
+Clamp (float)
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+value comes from the 
+\series bold
+Subtract
+\end_layout
+
+\begin_layout Itemize
+min left alone
+\end_layout
+
+\begin_layout Itemize
+max from 
+\series bold
+MaxHealth
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+output of clamp to 
+\series bold
+CurrentHealth set
+\end_layout
+
+\begin_layout Itemize
+connect event 
+\series bold
+AnyDamage to CurrentHealth set
+\end_layout
+
+\begin_layout Itemize
+save and compile
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Create UI to display health
+\end_layout
+
+\begin_layout Itemize
+Create a 
+\series bold
+UI
+\series default
+ folder in the content browser
+\end_layout
+
+\begin_layout Itemize
+Create 
+\series bold
+User Interface | Widget Blueprint 
+\series default
+name it 
+\series bold
+HUD (right click in the folder)
+\end_layout
+
+\begin_layout Itemize
+open HUD
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+from 
+\series bold
+Palette
+\series default
+ on left hand side drag a 
+\series bold
+Progress Bar 
+\series default
+into the square
+\end_layout
+
+\begin_layout Itemize
+rename it in details 
+\series bold
+Health Bar
+\end_layout
+
+\begin_layout Itemize
+in 
+\series bold
+Slot
+\series default
+ change 
+\series bold
+Size X: 600
+\end_layout
+
+\begin_layout Itemize
+under 
+\series bold
+Progress
+\series default
+ drag Percent and watch
+\end_layout
+
+\begin_layout Itemize
+under 
+\series bold
+Apperance
+\series default
+ change the color
+\end_layout
+
+\begin_layout Itemize
+open function binding 
+\series bold
+in details
+\series default
+ in 
+\series bold
+next to Progress click bind next to Percent
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+choose 
+\series bold
+create binding (this takes us to graph mode)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+in Graph mode
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+double click on left function name (Get Health Bar Percent 0) in functions
+ under My Blueprint tab on left and change to
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+GetHealthPercentage
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+add 
+\series bold
+Get Player Character
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag off return value
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cast to ThirdPersonCharacter
+\end_layout
+
+\begin_layout Itemize
+(this makes it our character and not the general character)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+break 
+\series bold
+GetHealthPercentage to Return Node
+\end_layout
+
+\begin_layout Itemize
+connect 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+GetHealthPercentage to Cast to ThirdPersonCharacter
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cast to ThirdPersonCharacter to Return Node
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+from 
+\series bold
+AsThirdPersonCharacter 
+\series default
+connect
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Get 
+\series bold
+CurrentHealth
+\end_layout
+
+\begin_layout Itemize
+Get 
+\series bold
+MaxHealth
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+connect both to a 
+\series bold
+float / float
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+put result to 
+\series bold
+Return Node : Return Value
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+compile and exit
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Blueprints | Open Level Blueprint
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+Create Widget
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+connect to the end of the event path from 
+\series bold
+Event BeginPlay
+\end_layout
+
+\begin_layout Itemize
+set 
+\series bold
+Class
+\series default
+ to 
+\series bold
+HUD
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(make sure connected to 
+\series bold
+Event Being Play
+\series default
+)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+connect 
+\series bold
+Create Widget
+\series default
+ to 
+\series bold
+Add to Viewport
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make both connections
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+play
+\end_layout
+
+\begin_layout Subsection
+Enemy Health Bars
+\end_layout
+
+\begin_layout Itemize
+Duplicate 
+\series bold
+ThirdPersonCharacter
+\series default
+ blueprint in 
+\series bold
+Content Browser
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rename it 
+\series bold
+objectAI
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open and delete everything from event graph that isn't the take damage stuff
+ we just created
+\end_layout
+
+\begin_layout Itemize
+in 
+\series bold
+ContentBrowser
+\series default
+ in 
+\series bold
+UI
+\series default
+ folder
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+User Interface | Widget Blueprint
+\end_layout
+
+\begin_layout Itemize
+name it 
+\series bold
+EnemyHealth
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open 
+\series bold
+EnemyHealth
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in graph window upper right corner change 
+\series bold
+Fill screen
+\series default
+ to 
+\series bold
+Custom
+\series default
+ (with and height are next to custom in center screen upper right)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+width: 100
+\end_layout
+
+\begin_layout Itemize
+height: 25
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag a 
+\series bold
+Progress Bar
+\series default
+ into the panel
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rename it 
+\series bold
+HealthProgressBar
+\end_layout
+
+\begin_layout Itemize
+change color
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+compile and exit
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open 
+\series bold
+objectAI
+\series default
+ and look at viewport
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+add component 
+\series bold
+Widget
+\end_layout
+
+\begin_layout Itemize
+rename 
+\series bold
+HealthBar
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Details->User Interface
+\series default
+ set the 
+\series bold
+Widget Class
+\series default
+ to 
+\series bold
+Enemy Health
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Draw Size
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+x: 100
+\end_layout
+
+\begin_layout Itemize
+y:25
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+place above head
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open the 
+\series bold
+Event graph
+\series default
+ tab
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+drag 
+\series bold
+Healthbar
+\series default
+ component into graph
+\end_layout
+
+\begin_layout Itemize
+drag out from 
+\series bold
+Healthbar
+\series default
+ a 
+\series bold
+Get User Widget Object
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Get User Widget Object : return value
+\series default
+ drag a 
+\series bold
+Cast to Enemy Healthbar
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Cast to Enemy Healthbar: As Enemy Health
+\series default
+ drag a 
+\series bold
+Get Health Progress Bar
+\series default
+ action
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Get Health Progress Bar
+\series default
+ drag a 
+\series bold
+Set Percent
+\end_layout
+
+\begin_layout Itemize
+get 
+\series bold
+CurrentHealth
+\series default
+ and 
+\series bold
+MaxHealth
+\series default
+ and drag into a 
+\series bold
+float / float
+\end_layout
+
+\begin_layout Itemize
+create 
+\series bold
+Event Tick
+\series default
+ and connect to input 
+\series bold
+Cast to Enemy Healthbar
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Cast to Enemy Healthbar
+\series default
+ event to 
+\series bold
+Set Percent
+\end_layout
+
+\begin_layout Itemize
+compile and exit
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drag a couple of 
+\series bold
+objectAI
+\series default
+s into scene
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+walk around them
+\end_layout
+
+\begin_layout Itemize
+shit...
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Rotate the health bar
+\end_layout
+
+\begin_layout Itemize
+open 
+\series bold
+objectAI
+\series default
+ again and go to 
+\series bold
+event graph
+\end_layout
+
+\begin_layout Itemize
+drag out 
+\series bold
+Healthbar
+\series default
+ from components panel on left and connect out a 
+\series bold
+Get World Location
+\end_layout
+
+\begin_layout Itemize
+create a 
+\series bold
+Get Player Character
+\series default
+ and drag out a 
+\series bold
+Get World Location (mesh)
+\end_layout
+
+\begin_layout Itemize
+create a 
+\series bold
+Find Look at Rotation
+\end_layout
+
+\begin_layout Itemize
+connect 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Healthbar
+\series default
+ string to 
+\series bold
+Find Look at Rotation: start
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+GetPlayerCameraManager
+\series default
+ string to 
+\series bold
+Find Look at Rotation: target
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+now we need the code to actually make the rotation work
+\end_layout
+
+\begin_layout Itemize
+got to 
+\series bold
+Viewport
+\series default
+ tab
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Add Component | Scene
+\end_layout
+
+\begin_layout Itemize
+center 
+\series bold
+Scene 
+\series default
+on 
+\series bold
+HealthBar
+\end_layout
+
+\begin_layout Itemize
+make 
+\series bold
+HealthBar 
+\series default
+a child of 
+\series bold
+Scene
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+back to 
+\series bold
+event graph
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create a 
+\series bold
+scene
+\series default
+ (drag it from side) and use it to replace the 
+\series bold
+HealthBar
+\series default
+ into 
+\series bold
+Get World Rotation
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Find Look at Rotation : return value
+\series default
+ drag a 
+\series bold
+Break Rotator
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Break Rotation : Yaw
+\series default
+ drag a 
+\series bold
+Make Rotator 
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Make Rotator 
+\series default
+drag a 
+\series bold
+Set World Rotation (scene)
+\end_layout
+
+\begin_layout Itemize
+connect a 
+\series bold
+scene
+\series default
+ to 
+\series bold
+Set World Rotation (already done)
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Set Percent : action
+\series default
+ to 
+\series bold
+SetWorldRotation
+\series default
+ (set percent was previous health bar blueprint
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+play-shit
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+go back into objectAI blueprint and make sure that 
+\series bold
+break rotator yaw connects to make rotator yaw
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Creating a MainMenu
+\end_layout
+
+\begin_layout Subsection
+Create Menu layout
+\end_layout
+
+\begin_layout Itemize
+create a new 
+\series bold
+empty level 
+\series default
+name it 
+\series bold
+MenuLevel
+\end_layout
+
+\begin_layout Itemize
+in 
+\series bold
+Content Browser
+\series default
+ in 
+\series bold
+UI folder
+\series default
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+User Interface | Widget Blueprint
+\end_layout
+
+\begin_layout Itemize
+name it 
+\series bold
+MainMenu
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+open 
+\series bold
+MainMenu
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+from Palette add a 
+\series bold
+button
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rename 
+\series bold
+Play Game
+\end_layout
+
+\begin_layout Itemize
+resize
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+x: 400
+\end_layout
+
+\begin_layout Itemize
+y: 80
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+from Palette add a 
+\series bold
+Text
+\series default
+ object
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make it child of 
+\series bold
+Play Game
+\end_layout
+
+\begin_layout Itemize
+change text displayed (details menu->Content) to 
+\series bold
+Play Game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+copy button and paste (have to right click on button to copy and right click
+ on location to paste (canvas panel)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rename and change text to 
+\series bold
+Quit
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+place both buttons at the bottom
+\end_layout
+
+\begin_layout Itemize
+for each button
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in details select anchor and choose middle bottom
+\end_layout
+
+\begin_layout Itemize
+notice flower moves
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Now Make it Show
+\end_layout
+
+\begin_layout Itemize
+go to the 
+\series bold
+MenuLevel
+\end_layout
+
+\begin_layout Itemize
+open 
+\series bold
+level blueprint
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+EventBeginPlay
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+EventBeingPlay 
+\series default
+to 
+\series bold
+Create Widget
+\series default
+ (set class to 
+\series bold
+MainMenu
+\series default
+)
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Create Widget
+\series default
+ to 
+\series bold
+Add to Viewport
+\series default
+ connect both action and return value to target
+\end_layout
+
+\begin_layout Itemize
+create a 
+\series bold
+Get Player Controller
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Get player controller : return
+\series default
+ to 
+\series bold
+Set show Mouse Cursor : target
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Add to Viewport
+\series default
+ to 
+\series bold
+Set Show Mouse Cursor : event arrows
+\end_layout
+
+\begin_layout Itemize
+click the 
+\series bold
+Show Mouse Cursor
+\series default
+ box
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Make buttons do something
+\end_layout
+
+\begin_layout Itemize
+in 
+\series bold
+MainMenu
+\series default
+ blueprint widget
+\end_layout
+
+\begin_layout Itemize
+select 
+\series bold
+Play Game
+\series default
+ button and add 
+\series bold
+on click 
+\series default
+event in details (
+\series bold
+Events are bottom of details
+\series default
+)
+\end_layout
+
+\begin_layout Itemize
+in event graph
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+connect 
+\series bold
+OnClick
+\series default
+ to 
+\series bold
+OpenLevel (give it a working level name?)
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+OpenLevel 
+\series default
+to 
+\series bold
+Remove from Parent
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+removes menu
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+add 
+\series bold
+Get Player Controller
+\series default
+ and connect to 
+\series bold
+Set Show Mouse Cursor
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Remove from Parent
+\series default
+ to 
+\series bold
+Set Show Mouse Cursor
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+back in designer
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Quit button add 
+\series bold
+OnClick
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+in event graph
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+connect 
+\series bold
+OnClick Quit
+\series default
+ to 
+\series bold
+Quit Game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+compile and run
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+if it doesn't work look at the log
+\end_layout
+
+\begin_layout Itemize
+probably where levels are saved
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+resave them
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+add polish
+\end_layout
+
+\begin_layout Itemize
+add 
+\series bold
+Text
+\series default
+ (in 
+\series bold
+MainMenu
+\series default
+ blueprint, 
+\series bold
+Designer
+\series default
+)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+anchor top center
+\end_layout
+
+\begin_layout Itemize
+position
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+x: 0
+\end_layout
+
+\begin_layout Itemize
+y: 176
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+alignment
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+x: .5
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+click 
+\series bold
+Size to Content
+\series default
+ option
+\end_layout
+
+\begin_layout Itemize
+change content text 
+\series bold
+Place Game Name Here
+\end_layout
+
+\begin_layout Itemize
+appearance, font to 
+\series bold
+93
+\series default
+ and 
+\series bold
+justification center
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+compile
+\end_layout
+
+\begin_layout Subsection
+create animation
+\end_layout
+
+\begin_layout Itemize
+Open the 
+\series bold
+MainMenu
+\series default
+ and look at the 
+\series bold
+designer
+\end_layout
+
+\begin_layout Itemize
+click 
+\series bold
++Animation
+\series default
+ (bottom left of screen)
+\end_layout
+
+\begin_layout Itemize
+name it 
+\series bold
+MenuFlyIn
+\end_layout
+
+\begin_layout Itemize
+make the 
+\series bold
+Game Name
+\series default
+ appear
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+select the 
+\series bold
+Game Name
+\series default
+ (game title given)
+\end_layout
+
+\begin_layout Itemize
+rename it 
+\series bold
+GameTitle
+\end_layout
+
+\begin_layout Itemize
+in the animation click 
+\series bold
++Track
+\series default
+ and add in the 
+\series bold
+GameTitle
+\end_layout
+
+\begin_layout Itemize
+click the 
+\series bold
++Track on the right of GameTitle
+\series default
+ and select 
+\series bold
+ColorAndOpacity
+\end_layout
+
+\begin_layout Itemize
+at time 
+\series bold
+0
+\series default
+ set 
+\series bold
+Opacity to 0
+\series default
+ (alpha channel A)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+click the 
+\series bold
+add key at current time (<- o ->)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+at time 
+\series bold
+1
+\series default
+ set 
+\series bold
+Opacity to 1
+\series default
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+click the 
+\series bold
+add key at current time again
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Have buttons fly in
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+click the 
+\series bold
++Track
+\series default
+ and add each button (
+\series bold
+button should be highlighted when +track clicked)
+\end_layout
+
+\begin_layout Itemize
+for each 
+\series bold
++Track (on right of name)
+\series default
+ and chose 
+\series bold
+transform
+\end_layout
+
+\begin_layout Itemize
+set keys at 
+\series bold
+1 and 2
+\end_layout
+
+\begin_layout Itemize
+at 
+\series bold
+1
+\series default
+ set 
+\series bold
+RenderTransform | Location | Y 
+\series default
+to 
+\series bold
+300
+\end_layout
+
+\begin_layout Itemize
+at 
+\series bold
+2
+\series default
+ set 
+\series bold
+RenderTransform | Location | Y 
+\series default
+to 
+\series bold
+0
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Play Animation
+\end_layout
+
+\begin_layout Itemize
+click 
+\series bold
+graph button
+\end_layout
+
+\begin_layout Itemize
+menu fly in
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+create 
+\series bold
+Event Construct
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Event Construct 
+\series default
+to 
+\series bold
+Play Animation
+\end_layout
+
+\begin_layout Itemize
+drag 
+\series bold
+MenuFlyIn
+\series default
+ from details on left into scene and connect to 
+\series bold
+Play Animation- (in animation)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+menu fly out
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+copy 
+\series bold
+MenuFlyIn 
+\series default
+and 
+\series bold
+Play Animation
+\end_layout
+
+\begin_layout Itemize
+find the old 
+\series bold
+OnClicked 
+\series default
+to 
+\series bold
+Open Level
+\series default
+ part of the graph
+\end_layout
+
+\begin_layout Itemize
+paste 
+\series bold
+MenuFlyIn 
+\series default
+and 
+\series bold
+Play Animation 
+\series default
+and connect 
+\series bold
+OnClicked
+\series default
+ to them
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Play Animation
+\series default
+ shift it to play 
+\series bold
+reverse
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+Play Animation 
+\series default
+drag a 
+\series bold
+Delay
+\end_layout
+
+\begin_layout Itemize
+from 
+\series bold
+MenuFlyIn
+\series default
+ drag a 
+\series bold
+Get End Time
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Get End Time
+\series default
+ to 
+\series bold
+Delay
+\end_layout
+
+\begin_layout Itemize
+connect 
+\series bold
+Delay
+\series default
+ to 
+\series bold
+Open Level (set delay time to 2)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Repeat fly out connections for quit button
+\end_layout
+
+\begin_layout Itemize
+compile and play
+\end_layout
+
+\begin_layout Section
+Feb 7 Game concept to game pitch
+\end_layout
+
+\begin_layout Itemize
+lay out concept and use it to explain pitch
+\end_layout
+
+\begin_layout Subsection
+Game Concept-chapter 7
+\end_layout
+
+\begin_layout Subsubsection
+Initial phase
+\end_layout
+
+\begin_layout Itemize
+typically done by the:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+producer
+\end_layout
+
+\begin_layout Itemize
+lead designer
+\end_layout
+
+\begin_layout Itemize
+lead engineer
+\end_layout
+
+\begin_layout Itemize
+lead artist
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+focus on
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+motivation
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+why will they play
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+target audience
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+who will play
+\end_layout
+
+\begin_layout Itemize
+is it for hardcore or casual gamers
+\end_layout
+
+\begin_layout Itemize
+who are the gamers? page 116 (stats from Essential Facts about the Computer
+ and Video Game Industry 2009)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+60% are male
+\end_layout
+
+\begin_layout Itemize
+average age 35 years
+\end_layout
+
+\begin_layout Itemize
+25% of gamers over 50
+\end_layout
+
+\begin_layout Itemize
+average adult gamera has played for over 12 years
+\end_layout
+
+\begin_layout Itemize
+68% of American households play video games
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+remember women and minorities play too
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+the initial hook for the game
+\end_layout
+
+\begin_layout Itemize
+genre
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Adventure
+\end_layout
+
+\begin_layout Itemize
+Fighting
+\end_layout
+
+\begin_layout Itemize
+Fitness
+\end_layout
+
+\begin_layout Itemize
+MMO (Massively Multiplayer Online)
+\end_layout
+
+\begin_layout Itemize
+Music
+\end_layout
+
+\begin_layout Itemize
+Platformers (super mario)
+\end_layout
+
+\begin_layout Itemize
+Puzzle
+\end_layout
+
+\begin_layout Itemize
+RPG
+\end_layout
+
+\begin_layout Itemize
+Serious
+\end_layout
+
+\begin_layout Itemize
+Shooters
+\end_layout
+
+\begin_layout Itemize
+Simulations
+\end_layout
+
+\begin_layout Itemize
+Strategy
+\end_layout
+
+\begin_layout Itemize
+Survival horror
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+platform
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+easy for this course
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+SWOT analysis (strengths, weaknesses, opportunities, and threats)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+pages 123-4
+\end_layout
+
+\begin_layout Itemize
+most necessary in the real world if you wish to be funded
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+competitive analysis
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+similar to SWOT analysis
+\end_layout
+
+\begin_layout Itemize
+where you see if you game has a chance
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+documentation standards
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+figure out documentation early for consistancy
+\end_layout
+
+\begin_layout Itemize
+good for every project, not just games
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+approval
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+get me to sign off on their idea
+\end_layout
+
+\begin_layout Itemize
+a homework assignment
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsubsection
+Defining the concept
+\end_layout
+
+\begin_layout Itemize
+set the overall structure of the game
+\end_layout
+
+\begin_layout Itemize
+the parts are
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+mission statement
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+what is the game?
+\end_layout
+
+\begin_layout Itemize
+why is it being created?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+game setting
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+define the world the game is set in
+\end_layout
+
+\begin_layout Itemize
+create some initial artwork to show the idea
+\end_layout
+
+\begin_layout Itemize
+describe the world
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+gameplay mechanics
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+define how the gamer will play the game
+\end_layout
+
+\begin_layout Itemize
+what are:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+player challenges
+\end_layout
+
+\begin_layout Itemize
+player rewards
+\end_layout
+
+\begin_layout Itemize
+learning curve
+\end_layout
+
+\begin_layout Itemize
+control scheme
+\end_layout
+
+\begin_layout Itemize
+player actions
+\end_layout
+
+\begin_layout Itemize
+multiplayer elements
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+story synopsis
+\end_layout
+
+\begin_layout Itemize
+concept art
+\end_layout
+
+\begin_layout Itemize
+user interface
+\end_layout
+
+\begin_layout Itemize
+audio elements
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Game programming
+\end_layout
+
+\begin_layout Itemize
+determine the environment to use
+\end_layout
+
+\begin_layout Itemize
+develop structures of game
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+enemy movement
+\end_layout
+
+\begin_layout Itemize
+check for victory
+\end_layout
+
+\begin_layout Itemize
+etc.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+figure out how code for game will work
+\end_layout
+
+\begin_layout Subsubsection
+Prototyping
+\end_layout
+
+\begin_layout Itemize
+do it early and often
+\end_layout
+
+\begin_layout Itemize
+start with low level prototypes
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+pen and paper
+\end_layout
+
+\begin_layout Itemize
+simple implementation
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+work towards higher fidelity
+\end_layout
+
+\begin_layout Itemize
+eventually want something that is a snapshot of how game will work
+\end_layout
+
+\begin_layout Itemize
+make sure to prototype key features of the game before full implementation
+\end_layout
+
+\begin_layout Subsubsection
+Risk analysis
+\end_layout
+
+\begin_layout Itemize
+determine what the risks are will the plan
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+critical points that the game requires
+\end_layout
+
+\begin_layout Itemize
+essential components
+\end_layout
+
+\begin_layout Itemize
+flacky people
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+figure out how to minimize the risks
+\end_layout
+
+\begin_layout Subsubsection
+Pitch idea
+\end_layout
+
+\begin_layout Itemize
+now that the work is done present idea for approval
+\end_layout
+
+\begin_layout Subsection
+Pitch Documentation-chapter 2
+\end_layout
+
+\begin_layout Itemize
+they will be writing these for the group assignments
+\end_layout
+
+\begin_layout Itemize
+now this is just to give an idea of what is coming
+\end_layout
+
+\begin_layout Subsubsection
+Title
+\end_layout
+
+\begin_layout Itemize
+duh
+\end_layout
+
+\begin_layout Subsubsection
+Genre
+\end_layout
+
+\begin_layout Itemize
+type of game
+\end_layout
+
+\begin_layout Subsubsection
+Platform
+\end_layout
+
+\begin_layout Itemize
+which platform 
+\end_layout
+
+\begin_layout Itemize
+why
+\end_layout
+
+\begin_layout Subsubsection
+Target audience
+\end_layout
+
+\begin_layout Itemize
+who 
+\end_layout
+
+\begin_layout Itemize
+why
+\end_layout
+
+\begin_layout Subsubsection
+Premise
+\end_layout
+
+\begin_layout Itemize
+1-2 line description
+\end_layout
+
+\begin_layout Subsubsection
+Game summary
+\end_layout
+
+\begin_layout Itemize
+2-3 paragraphs 
+\end_layout
+
+\begin_layout Itemize
+describe the gamers experience
+\end_layout
+
+\begin_layout Subsubsection
+Backstory and game world
+\end_layout
+
+\begin_layout Itemize
+2-3 paragraphs 
+\end_layout
+
+\begin_layout Itemize
+describe world
+\end_layout
+
+\begin_layout Subsubsection
+Gameplay mechanics
+\end_layout
+
+\begin_layout Itemize
+what can the player do
+\end_layout
+
+\begin_layout Itemize
+how does it work
+\end_layout
+
+\begin_layout Subsubsection
+Character description
+\end_layout
+
+\begin_layout Itemize
+good guys
+\end_layout
+
+\begin_layout Itemize
+bad guys
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\begin_layout Subsubsection
+Mission and story progression
+\end_layout
+
+\begin_layout Itemize
+how does story unfold
+\end_layout
+
+\begin_layout Subsubsection
+Features and gameplay highlights
+\end_layout
+
+\begin_layout Itemize
+what makes this game special
+\end_layout
+
+\begin_layout Subsubsection
+Technology highlights
+\end_layout
+
+\begin_layout Itemize
+how will technology help the game
+\end_layout
+
+\begin_layout Subsubsection
+Competitive analysis
+\end_layout
+
+\begin_layout Itemize
+what games are similar
+\end_layout
+
+\begin_layout Itemize
+how is this better
+\end_layout
+
+\begin_layout Subsubsection
+Team, budget, and schedules
+\end_layout
+
+\begin_layout Itemize
+who
+\end_layout
+
+\begin_layout Itemize
+what 
+\end_layout
+
+\begin_layout Itemize
+when
+\end_layout
+
+\begin_layout Itemize
+how
+\end_layout
+
+\begin_layout Section
+Feb 10 Present game ideas
+\end_layout
+
+\begin_layout Itemize
+hw 1 due- game ideas
+\end_layout
+
+\begin_layout Section
+Feb 12 CPM
+\end_layout
+
+\begin_layout Section
+Feb 13-present game ideas
+\end_layout
+
+\begin_layout Itemize
+hw 2 due- final idea
+\end_layout
+
+\begin_layout Section
+Feb 14 Introduce final project game details and Trello
+\end_layout
+
+\begin_layout Itemize
+Tutorials
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+take notes early
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+weekly check-in papers
+\end_layout
+
+\begin_layout Itemize
+reflection part of the post-mortem
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+they should start writing stuff down for reflections now
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+REflections portions FIGURE ME OUT
+\end_layout
+
+\begin_layout Subsection
+Trello
+\end_layout
+
+\begin_layout Itemize
+I will be looking at them
+\end_layout
+
+\begin_layout Itemize
+this is how you will really use your CPM
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+CPM should be put into Trello with due dates
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+create a board
+\end_layout
+
+\begin_layout Itemize
+upper right after login
+\end_layout
+
+\begin_layout Itemize
+make it private
+\end_layout
+
+\begin_layout Subsection
+add members
+\end_layout
+
+\begin_layout Itemize
+in menu bar like thing across the top ish left
+\end_layout
+
+\begin_layout Subsection
+Lists
+\end_layout
+
+\begin_layout Itemize
+the things you need to get done
+\end_layout
+
+\begin_layout Itemize
+can have 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+to do
+\end_layout
+
+\begin_layout Itemize
+in progress
+\end_layout
+
+\begin_layout Itemize
+done
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Cards
+\end_layout
+
+\begin_layout Itemize
+these make up lists
+\end_layout
+
+\begin_layout Itemize
+create it
+\end_layout
+
+\begin_layout Itemize
+once created can edit
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+assign members
+\end_layout
+
+\begin_layout Itemize
+give due dates
+\end_layout
+
+\begin_layout Itemize
+give a more detailed discription
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+cards can be moved between lists as they are completed
+\end_layout
+
+\begin_layout Section
+Feb 19
+\end_layout
+
+\begin_layout Itemize
+HW3 due
+\end_layout
+
+\begin_layout Itemize
+talk to each group about their CPM
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+discuss issues there
+\end_layout
+
+\begin_layout Itemize
+use this process to grade
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+they begin working now
+\end_layout
+
+\begin_layout Section
+Feb 20 Introduce Git hub
+\end_layout
+
+\begin_layout Itemize
+https://xkcd.com/1597/
+\end_layout
+
+\begin_layout Subsection
+use gitkracken not github desktop
+\end_layout
+
+\begin_layout Itemize
+https://www.gitkraken.com/
+\end_layout
+
+\begin_layout Itemize
+everything works
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+not the same for github desktop
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+still need a github account
+\end_layout
+
+\begin_layout Subsection
+in unreal DON
+\begin_inset Quotes erd
+\end_inset
+
+T USE-better to use other application
+\end_layout
+
+\begin_layout Itemize
+go to version control tab
+\end_layout
+
+\begin_layout Itemize
+select 
+\series bold
+git (beta)
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+if a location for git doesn't exist on Mac, make sure that XCode has been
+ run and licences accepted
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+on windows try just putting in the location
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+you can only do the following if unreal auto pulls your information from
+ the git desktop
+\end_layout
+
+\begin_layout Itemize
+initialize the project with git
+\end_layout
+
+\begin_layout Itemize
+accept settings
+\end_layout
+
+\begin_layout Subsection
+learn using the tutorial
+\end_layout
+
+\begin_layout Itemize
+honestly it does a better job than anything else
+\end_layout
+
+\begin_layout Subsection
+What you will need to do for your group
+\end_layout
+
+\begin_layout Itemize
+create one repository on github
+\end_layout
+
+\begin_layout Itemize
+add all group members (and me) to the project
+\end_layout
+
+\begin_layout Itemize
+for other members download project by
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in gitkracken
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+File | Clone Repository
+\end_layout
+
+\begin_layout Itemize
+this download everything and sets everyone up on the same project
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Setup
+\end_layout
+
+\begin_layout Itemize
+the files will be too large
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+don't include the art files in the repository
+\end_layout
+
+\begin_layout Itemize
+pass them on thumbdrive, etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+look at a good gitignore file to see what not to include in repository
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+worst case have unreal generate it then use that to update the one in gitkracken
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Daily routine
+\end_layout
+
+\begin_layout Itemize
+pull any changes
+\end_layout
+
+\begin_layout Itemize
+open unreal and work
+\end_layout
+
+\begin_layout Itemize
+when done save and submit to source control
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+don't work on files others are using as merging other than text documents
+ is a disaster
+\end_layout
+
+\begin_layout Section
+Feb 21-26: 3 days The game development team-chapter 3
+\end_layout
+
+\begin_layout Subsection
+Production
+\end_layout
+
+\begin_layout Itemize
+Those that make sure that the game gets done
+\end_layout
+
+\begin_layout Itemize
+don't typically work on the game
+\end_layout
+
+\begin_layout Itemize
+resources on how to prepare for the following on page 46
+\end_layout
+
+\begin_layout Subsubsection
+Executive producer
+\end_layout
+
+\begin_layout Itemize
+producer 5-10 years production experience
+\end_layout
+
+\begin_layout Itemize
+usually oversee multiple projects
+\end_layout
+
+\begin_layout Itemize
+keep game on schedule from high level
+\end_layout
+
+\begin_layout Itemize
+very broad focus
+\end_layout
+
+\begin_layout Itemize
+responsible to CEO
+\end_layout
+
+\begin_layout Subsubsection
+Producer
+\end_layout
+
+\begin_layout Itemize
+developer with 3-5 years production experience
+\end_layout
+
+\begin_layout Itemize
+has worked as associate producer
+\end_layout
+
+\begin_layout Itemize
+Hands on with specific game
+\end_layout
+
+\begin_layout Itemize
+not in every meeting but crucial to game development
+\end_layout
+
+\begin_layout Itemize
+still responsible to CEO etc.
+\end_layout
+
+\begin_layout Subsubsection
+Associate producer
+\end_layout
+
+\begin_layout Itemize
+1-3 years experience
+\end_layout
+
+\begin_layout Itemize
+can come from any area
+\end_layout
+
+\begin_layout Itemize
+helps out producer
+\end_layout
+
+\begin_layout Itemize
+often put in charge of a specific aspect of project
+\end_layout
+
+\begin_layout Subsection
+Art
+\end_layout
+
+\begin_layout Itemize
+tend to out number other parts of team 2 to 1
+\end_layout
+
+\begin_layout Itemize
+all need background in traditional 2 and 3D media
+\end_layout
+
+\begin_layout Itemize
+all should also have some knowledge of digital design
+\end_layout
+
+\begin_layout Subsubsection
+Art director
+\end_layout
+
+\begin_layout Itemize
+5-10 years experience
+\end_layout
+
+\begin_layout Itemize
+skilled artist
+\end_layout
+
+\begin_layout Itemize
+make sure that main vision is followed
+\end_layout
+
+\begin_layout Subsubsection
+Lead artist
+\end_layout
+
+\begin_layout Itemize
+3-5 years experience
+\end_layout
+
+\begin_layout Itemize
+skilled artist
+\end_layout
+
+\begin_layout Itemize
+like art director but with greater focus on day to day management
+\end_layout
+
+\begin_layout Itemize
+more hands on quality control of art
+\end_layout
+
+\begin_layout Subsubsection
+Concept artist
+\end_layout
+
+\begin_layout Itemize
+2D artists
+\end_layout
+
+\begin_layout Itemize
+focus on overall vision
+\end_layout
+
+\begin_layout Itemize
+do concepts
+\end_layout
+
+\begin_layout Itemize
+don't focus on specific asset creation
+\end_layout
+
+\begin_layout Subsubsection
+World builder or level designer
+\end_layout
+
+\begin_layout Itemize
+build worlds
+\end_layout
+
+\begin_layout Itemize
+skilled in 2D and 3D art
+\end_layout
+
+\begin_layout Subsubsection
+Asset artist
+\end_layout
+
+\begin_layout Itemize
+skilled in 2D and 3D art
+\end_layout
+
+\begin_layout Itemize
+build assets in game (weapons, characters, etc.)
+\end_layout
+
+\begin_layout Subsubsection
+Animator
+\end_layout
+
+\begin_layout Itemize
+skilled in 2D and 3D art
+\end_layout
+
+\begin_layout Itemize
+all in game cinematic animation
+\end_layout
+
+\begin_layout Subsubsection
+Technical artist
+\end_layout
+
+\begin_layout Itemize
+connect the art to the physics models, collisions, etc.
+\end_layout
+
+\begin_layout Subsubsection
+Marketing artist
+\end_layout
+
+\begin_layout Itemize
+do all art production for marketing
+\end_layout
+
+\begin_layout Subsection
+Engineering
+\end_layout
+
+\begin_layout Itemize
+write the code to make the game work
+\end_layout
+
+\begin_layout Itemize
+many have CS degrees
+\end_layout
+
+\begin_layout Subsubsection
+Technical director
+\end_layout
+
+\begin_layout Itemize
+5-10 years experience
+\end_layout
+
+\begin_layout Itemize
+in charge of technology and vision
+\end_layout
+
+\begin_layout Itemize
+high level control
+\end_layout
+
+\begin_layout Subsubsection
+Lead engineer
+\end_layout
+
+\begin_layout Itemize
+3-5 years experience
+\end_layout
+
+\begin_layout Itemize
+manages day-to-day tasks of team
+\end_layout
+
+\begin_layout Itemize
+manages other engineers
+\end_layout
+
+\begin_layout Subsubsection
+Engineer
+\end_layout
+
+\begin_layout Itemize
+write the code to make the game work
+\end_layout
+
+\begin_layout Itemize
+typical engineers
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+networking
+\end_layout
+
+\begin_layout Itemize
+sound
+\end_layout
+
+\begin_layout Itemize
+graphics
+\end_layout
+
+\begin_layout Itemize
+tools
+\end_layout
+
+\begin_layout Itemize
+AI
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Design
+\end_layout
+
+\begin_layout Itemize
+these people design all aspects of game
+\end_layout
+
+\begin_layout Itemize
+define charaters, worlds, combat
+\end_layout
+
+\begin_layout Subsubsection
+Creative director
+\end_layout
+
+\begin_layout Itemize
+5-10 years work and lead design experience over several titles
+\end_layout
+
+\begin_layout Itemize
+make sure that is a unified design vision
+\end_layout
+
+\begin_layout Subsubsection
+Lead designer
+\end_layout
+
+\begin_layout Itemize
+3-5 years design experience
+\end_layout
+
+\begin_layout Itemize
+manages day-to-day tasks
+\end_layout
+
+\begin_layout Itemize
+balances game features
+\end_layout
+
+\begin_layout Subsubsection
+Designer
+\end_layout
+
+\begin_layout Itemize
+Those that do the actual design work
+\end_layout
+
+\begin_layout Itemize
+some specific roles
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+systems designer
+\end_layout
+
+\begin_layout Itemize
+UI designer
+\end_layout
+
+\begin_layout Itemize
+level designer
+\end_layout
+
+\begin_layout Itemize
+scripter
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Writer
+\end_layout
+
+\begin_layout Itemize
+person who writes the story and dialog
+\end_layout
+
+\begin_layout Itemize
+need creative writting and writing for interactive media experience
+\end_layout
+
+\begin_layout Itemize
+write everything associated with game
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+PR copy
+\end_layout
+
+\begin_layout Itemize
+website
+\end_layout
+
+\begin_layout Itemize
+manuel
+\end_layout
+
+\begin_layout Itemize
+etc.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Quality assurance team
+\end_layout
+
+\begin_layout Itemize
+the game testers
+\end_layout
+
+\begin_layout Subsubsection
+Lead QA tester
+\end_layout
+
+\begin_layout Itemize
+2-3 years testing experience
+\end_layout
+
+\begin_layout Itemize
+must build the testing plan
+\end_layout
+
+\begin_layout Itemize
+determines how long it will take to test each aspect
+\end_layout
+
+\begin_layout Itemize
+must know the overall idea structure of the game
+\end_layout
+
+\begin_layout Subsubsection
+QA tester
+\end_layout
+
+\begin_layout Itemize
+spend lots of time playing the game to test it
+\end_layout
+
+\begin_layout Itemize
+test on different consoles
+\end_layout
+
+\begin_layout Subsection
+Communication
+\end_layout
+
+\begin_layout Itemize
+communication skill are what all of these jobs have in common
+\end_layout
+
+\begin_layout Itemize
+everything is interrelated to you need to be able to chat with others
+\end_layout
+
+\begin_layout Section
+Feb 21-26: 3 days Game production overview-chapter 6
+\end_layout
+
+\begin_layout Itemize
+The basic structure to producing a game
+\end_layout
+
+\begin_layout Subsection
+Preproduction
+\end_layout
+
+\begin_layout Itemize
+10-25% of project time
+\end_layout
+
+\begin_layout Itemize
+create the following
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Game concept
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the idea 
+\end_layout
+
+\begin_layout Itemize
+why is it fun
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Game requirements
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+what art is needed
+\end_layout
+
+\begin_layout Itemize
+what features required
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Game plan
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the production schedule
+\end_layout
+
+\begin_layout Itemize
+milestones set
+\end_layout
+
+\begin_layout Itemize
+how does it get done
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+preproduction checklist on page 103
+\end_layout
+
+\begin_layout Subsection
+Production
+\end_layout
+
+\begin_layout Itemize
+where the actual work is accomplished
+\end_layout
+
+\begin_layout Itemize
+three parts
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Plan implementation
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+do the plan to get it done
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tracking progress
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make sure that everyone knows what has been done
+\end_layout
+
+\begin_layout Itemize
+know when stuff is behind schedule
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Task completion
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make sure to define what it takes for something to be done
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+checklist on page 106
+\end_layout
+
+\begin_layout Itemize
+this is the meat of the project
+\end_layout
+
+\begin_layout Subsection
+Testing
+\end_layout
+
+\begin_layout Itemize
+where you make sure it works
+\end_layout
+
+\begin_layout Itemize
+parts
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Plan validation
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+check the game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Code release
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+checking off parts of the code when they are ready to ship
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Postproduction
+\end_layout
+
+\begin_layout Itemize
+learn from the experiences making the game
+\end_layout
+
+\begin_layout Itemize
+archive the code for future use
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+comment all code
+\end_layout
+
+\begin_layout Itemize
+write design documentation
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Feb 21-26: 3 days Game Development in Brief
+\end_layout
+
+\begin_layout Subsection
+Characters, Setting, and Story-chapter 8
+\end_layout
+
+\begin_layout Itemize
+these are topics they should think about that are beyond what they will
+ do is this class
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+a lot of factors will effect the story
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+type of game
+\end_layout
+
+\begin_layout Itemize
+control within game
+\end_layout
+
+\begin_layout Itemize
+character movements within game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+story can also be progressed with 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+cinematics
+\end_layout
+
+\begin_layout Itemize
+set dialog pieces
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+be sure to consider linearity of gameplay
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Game requirements-chapter 9
+\end_layout
+
+\begin_layout Subsubsection
+Defining features
+\end_layout
+
+\begin_layout Itemize
+figure out what features you want in your game
+\end_layout
+
+\begin_layout Itemize
+now prioritize and break them into groups
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+required
+\end_layout
+
+\begin_layout Itemize
+useful
+\end_layout
+
+\begin_layout Itemize
+next time
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+this will help you determine what needs to get done and when
+\end_layout
+
+\begin_layout Subsubsection
+Milestones and deliverables
+\end_layout
+
+\begin_layout Itemize
+most important to getting projects done
+\end_layout
+
+\begin_layout Itemize
+figure out what is getting done when
+\end_layout
+
+\begin_layout Itemize
+stick to this schedule
+\end_layout
+
+\begin_layout Itemize
+good example on pages 161-2
+\end_layout
+
+\begin_layout Itemize
+notice that prototypes, alpha, and beta releases are common
+\end_layout
+
+\begin_layout Subsubsection
+Evaluate technology
+\end_layout
+
+\begin_layout Itemize
+for larger games
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+determine what engineering stuff is build in house vs bought or licensed
+\end_layout
+
+\begin_layout Itemize
+figure out how hardware limitations will factor in
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Tools and pipeline
+\end_layout
+
+\begin_layout Itemize
+basically another scheduling step
+\end_layout
+
+\begin_layout Itemize
+determine what aspects of the game require other aspects to be completed
+ first
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+an artist can't see how a model will look if there's no level to place it
+ in, etc.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+build a critical path
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+make sure no person is overloaded
+\end_layout
+
+\begin_layout Itemize
+make sure everything can get done in time
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Documentation
+\end_layout
+
+\begin_layout Itemize
+should document everything created
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in the real world there will be multiple steps based on audience
+\end_layout
+
+\begin_layout Itemize
+only one set for this class
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+need documentation on
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+design
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+UI 
+\end_layout
+
+\begin_layout Itemize
+scoring
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+art
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+style guide
+\end_layout
+
+\begin_layout Itemize
+asset list
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+technical
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+coding standards
+\end_layout
+
+\begin_layout Itemize
+technical design
+\end_layout
+
+\begin_layout Itemize
+etc.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+Packaging and Cooking game
+\end_layout
+
+\begin_layout Itemize
+Build everyting before you go to package
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+will need to build each level individually
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Settings
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+File | Package Project | 
+\series default
+Pack
+\series bold
+aging Settings
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Supported Platforms: You can cut down on 
+\series bold
+Supported Platforms to only those you want
+\end_layout
+
+\begin_layout Itemize
+Packaging: Build configuration to 
+\series bold
+\emph on
+Shipping
+\end_layout
+
+\begin_layout Itemize
+Description: fill in company etc.
+\end_layout
+
+\begin_layout Itemize
+Maps: set your default starting map
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Packaging
+\end_layout
+
+\begin_layout Itemize
+File | Packaging | Platform (you need to pick the platform and know that
+ you need the given platform to package for it)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+this takes a while
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+look we can play it! shit it would be helpful to be able to quit
+\end_layout
+
+\begin_layout Section
+Feb 27
+\end_layout
+
+\begin_layout Section
+Mar 5-7:
+\end_layout
+
+\begin_layout Section
+Mar 19 Reflection-Outside talk by game person
+\end_layout
+
+\begin_layout Itemize
+Consultancy Process
+\end_layout
+
+\begin_layout Itemize
+make them understand why I am doing this
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+why do they care about this process
+\end_layout
+
+\begin_layout Itemize
+how will it benefit them
+\end_layout
+
+\begin_layout Itemize
+make sure buy in
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+everyone must participate 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+have groups made up with one member of each team
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Scaffold this process before the first time
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+model how it should work
+\end_layout
+
+\begin_layout Itemize
+show demo questions and responses
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Post process
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+have them talk about what they gained from the process
+\end_layout
+
+\begin_layout Itemize
+have them talk about it and not me
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Facilitator Overview (2 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+review process
+\end_layout
+
+\begin_layout Enumerate
+set time limits
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Presenter Overview (1.5 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+share issue
+\end_layout
+
+\begin_layout Enumerate
+provide context
+\end_layout
+
+\begin_layout Enumerate
+frame key question for specific consideration
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Probing or Clarifying Questions (3 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+group members ask more questions to learn about the issue
+\end_layout
+
+\begin_layout Enumerate
+reminder, this is not a time to give advice or get into the discussion
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Discussant's group discussion (4 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Group discusses issue
+\end_layout
+
+\begin_layout Enumerate
+Presenter is silent, taking notes
+\end_layout
+
+\begin_layout Enumerate
+group addresses possible suggestions related to the issue
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Presentor Response (2 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Presenter responds to group feedback
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Debriefing (2 min)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+facilitator leads discussion critiquing the process
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Mar 23 Testing and code release-chapter 14
+\end_layout
+
+\begin_layout Subsection
+Testing
+\end_layout
+
+\begin_layout Itemize
+usually the first thing cut (who'd a thought?)
+\end_layout
+
+\begin_layout Itemize
+make sure to build time to test into schedules
+\end_layout
+
+\begin_layout Itemize
+need to test
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+play-testing: during production testing
+\end_layout
+
+\begin_layout Itemize
+demo
+\end_layout
+
+\begin_layout Itemize
+marketing builds: bad for journalists to see too many bugs
+\end_layout
+
+\begin_layout Itemize
+code release: fix everything in the eventual game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+a comprehensive test plan tests each piece on each level
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+character A gun level 1-pass
+\end_layout
+
+\begin_layout Itemize
+character A gun level 2-pass
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+testing pipeline
+\end_layout
+
+\begin_layout Itemize
+need bug tracking database to see what's wrong
+\end_layout
+
+\begin_layout Itemize
+bug definitions
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+crash bug
+\end_layout
+
+\begin_layout Itemize
+critical bug
+\end_layout
+
+\begin_layout Itemize
+minor bug
+\end_layout
+
+\begin_layout Itemize
+feature request
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+bug tracking
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+need to know which version of code
+\end_layout
+
+\begin_layout Itemize
+where it occurs
+\end_layout
+
+\begin_layout Itemize
+in what situations it occurs
+\end_layout
+
+\begin_layout Itemize
+description
+\end_layout
+
+\begin_layout Itemize
+etc
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+checking final pieces
+\end_layout
+
+\begin_layout Itemize
+check Technical Certification Requirements (TCRs) platform checklists etc
+\end_layout
+
+\begin_layout Itemize
+external testing (generally done if group isn't big enough)
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+have their friends play their games
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Releasing code
+\end_layout
+
+\begin_layout Itemize
+the final code release should be a version of the code that has every bug
+ addressed and has been thuroughly tested
+\end_layout
+
+\begin_layout Itemize
+use a code release checklist to make srue that each of the following has
+ been addressed:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+copyright information
+\end_layout
+
+\begin_layout Itemize
+end-user license agreements
+\end_layout
+
+\begin_layout Itemize
+licensor approval
+\end_layout
+
+\begin_layout Itemize
+customer support information
+\end_layout
+
+\begin_layout Itemize
+localized assets
+\end_layout
+
+\begin_layout Itemize
+demos
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gold masters
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the final version of the code sent off to publishing
+\end_layout
+
+\begin_layout Itemize
+checklist on page 274
+\end_layout
+
+\begin_layout Itemize
+needs final console approval before it can be released
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Mar 23: Game Post-Mortems
+\end_layout
+
+\begin_layout Itemize
+a lot are online
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+gamasutra
+\end_layout
+
+\begin_layout Itemize
+search for them specifically by game name too
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+why are they important
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+so that you can learn from mistakes
+\end_layout
+
+\begin_layout Itemize
+pull what is good and bad
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+why I am having them do it now
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+they wouldn't learn from others unless they had built a game already
+\end_layout
+
+\begin_layout Itemize
+now they are ready to get it
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Balder's Gate
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+all art lost
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+StarCraft
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+worked on 2 month schedule for 2 years
+\end_layout
+
+\begin_layout Itemize
+didn't know language they were using
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+C++
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+Apr 4 Usability Testing in Brief
+\end_layout
+
+\begin_layout Itemize
+Usability defined
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Usefulness: does it allow the user to do what they want
+\end_layout
+
+\begin_layout Itemize
+Efficiency: how quickly can the user do what they want
+\end_layout
+
+\begin_layout Itemize
+Effectivness: does the product do what the user thinks it should
+\end_layout
+
+\begin_layout Itemize
+Learnability: how quickly can someone learn to be effective
+\end_layout
+
+\begin_layout Itemize
+Satisfaction: how do users feel about the product
+\end_layout
+
+\begin_layout Itemize
+Accessibility: how accessible is the product to the intended market
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+if something is really usable then people don't realize it's there, it doesn't
+ get in the way
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+they can just play the game
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+why usability test?
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+eliminate design problems and frustration
+\end_layout
+
+\begin_layout Itemize
+find additional bugs
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Basic methodology
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Develop research question or test objectives
+\end_layout
+
+\begin_layout Itemize
+use a representative same of end users
+\end_layout
+
+\begin_layout Itemize
+test in the actual work environment
+\end_layout
+
+\begin_layout Itemize
+obsere the end users who are using the product
+\end_layout
+
+\begin_layout Itemize
+interview your subjects
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Three basic types of test
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+exploritory (formative)
+\end_layout
+
+\begin_layout Itemize
+assessment (summative)
+\end_layout
+
+\begin_layout Itemize
+validation (verification)
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Exploritory (we won't be doing it with the games but good to know)
+\end_layout
+
+\begin_layout Itemize
+the point of this study is to make sure that you understand the users needs
+\end_layout
+
+\begin_layout Itemize
+test basic design
+\end_layout
+
+\begin_layout Itemize
+get initial feedback from basically a paper prototype
+\end_layout
+
+\begin_layout Itemize
+Typical questions to answer
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What do yusers conceive and think abou using the product
+\end_layout
+
+\begin_layout Itemize
+Does the product's basic functionality have value to the user
+\end_layout
+
+\begin_layout Itemize
+How easily and successfully can users navigate
+\end_layout
+
+\begin_layout Itemize
+how easily do users make inferences about how to use this user interface
+ based on their previous experience
+\end_layout
+
+\begin_layout Itemize
+what type of prerequisite information does a person need to use the product
+ 
+\end_layout
+
+\begin_layout Itemize
+which funcitons of the product are 
+\begin_inset Quotes eld
+\end_inset
+
+walk up and see
+\begin_inset Quotes erd
+\end_inset
+
+ and which will probably require either help or written documentation
+\end_layout
+
+\begin_layout Itemize
+how should the table of contents be organized to accomodate both novice
+ and experience users
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+typically have a user test the material with a moderator sitting behind
+\end_layout
+
+\begin_layout Itemize
+what the moderator does
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+leads the user though a test situation
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Imagine that you have situation A and want to do B, how would you start
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+from here do C
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+what made you choose that way of doing it
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+how was the experience
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+what didn't go well
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+what did go well
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+users are often asked to think aload as they figure out how to perform some
+ task
+\end_layout
+
+\begin_layout Itemize
+You typically test a couple of different prototypes against each other in
+ this phase.
+\end_layout
+
+\begin_layout Subsection
+Assesment or Summative test (basically what your first round is)
+\end_layout
+
+\begin_layout Itemize
+test done after high level design or organization of product has been establishe
+d
+\end_layout
+
+\begin_layout Itemize
+done when a prototype exists
+\end_layout
+
+\begin_layout Itemize
+now the user will actually walk though the material
+\end_layout
+
+\begin_layout Itemize
+moderator doesn't ask as many questions, 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+primarily just gives the situation and lets the user test
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Validation or Verification test
+\end_layout
+
+\begin_layout Itemize
+takes place close to product release
+\end_layout
+
+\begin_layout Itemize
+done to make sure that bugs were fixed and new ones not introduced
+\end_layout
+
+\begin_layout Itemize
+typically done against benchmarks
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+user should be able to install software within 5 minutes
+\end_layout
+
+\begin_layout Itemize
+user should be able to find data withing 1 minute
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+users have very little intereaction with moderator
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+moderator tends to set stage briefly then stop talking
+\end_layout
+
+\begin_layout Itemize
+user not asked to think alound
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+quantitiative data is taken
+\end_layout
+
+\begin_layout Itemize
+must determine what percentage of users meeting the benchmarks is considered
+ success before the test
+\end_layout
+
+\begin_layout Subsection
+skills for moderators
+\end_layout
+
+\begin_layout Itemize
+should do their best not to lead participants
+\end_layout
+
+\begin_layout Itemize
+be impartial
+\end_layout
+
+\begin_layout Itemize
+best to not be one of the developers
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+if you don't have a choice you don't have a choice
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+a good moderator must have
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+grounding in user-centered design
+\end_layout
+
+\begin_layout Itemize
+quick learner: able to learn from and question based on user responces
+\end_layout
+
+\begin_layout Itemize
+instant rapport with participants: is user isn't at ease you don't get good
+ data
+\end_layout
+
+\begin_layout Itemize
+excellent memory: to review what occurs in the session and learn from it
+\end_layout
+
+\begin_layout Itemize
+good listener: able to set asside bias and listen to what eat user says
+ with a fresh ear
+\end_layout
+
+\begin_layout Itemize
+comfortable with ambiguity: things won't go how you think
+\end_layout
+
+\begin_layout Itemize
+flexibility: able to go off script when necessary
+\end_layout
+
+\begin_layout Itemize
+long attention span: it's boring to watch someone read instructions and
+ work though them, needing to interact with them is a bad thing
+\end_layout
+
+\begin_layout Itemize
+emphathic: very similar to good rapport
+\end_layout
+
+\begin_layout Itemize
+big picture thinker: must be able to see overall picture instead of focusing
+ on hte details
+\end_layout
+
+\begin_layout Itemize
+good communicator
+\end_layout
+
+\begin_layout Itemize
+good organizer
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+typical moderating problems
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+leading rather then enableing
+\end_layout
+
+\begin_layout Itemize
+paying to much attention to data collection/disrupting the interaction to
+ collect data
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+just record the thing
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+knowing to much so that the participant defers
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+play dumb
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+too rigid with test plan
+\end_layout
+
+\begin_layout Itemize
+not relating to the participant
+\end_layout
+
+\begin_layout Itemize
+jumping to conclusions (you really need to listen to what they're saying
+ not what you think they're saying)
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Apr 6 Vertical slices due/presentations/check questions
+\end_layout
+
+\begin_layout Section
+Apr 9 Go through usability results
+\end_layout
+
+\begin_layout Subsection
+Use revised consultancy process
+\end_layout
+
+\begin_layout Itemize
+break into three groups
+\end_layout
+
+\begin_layout Itemize
+hold consultancy
+\end_layout
+
+\begin_layout Itemize
+have groups reform in order to discuss what they learned
+\end_layout
+
+\begin_layout Subsection
+Reflect on process
+\end_layout
+
+\begin_layout Itemize
+was it useful
+\end_layout
+
+\begin_layout Itemize
+how can we change it to make it better
+\end_layout
+
+\begin_layout Subsection
+remind them to update plans so they know how games can be completed
+\end_layout
+
+\begin_layout Section*
+Maybe next time
+\end_layout
+
+\begin_layout Itemize
+Particle systems 
+\end_layout
+
+\begin_layout Itemize
+create Pick up item 
+\end_layout
+
+\begin_layout Itemize
+Change first person shooter template -shoot something else, change gun
+\end_layout
+
+\end_body
+\end_document
